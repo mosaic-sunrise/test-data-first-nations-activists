@@ -182,7 +182,13 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ocean.wave@torresstraitmarine.test',
       phone: '+61-555-0108',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Person_icon_BLACK-01.svg',
-      tags: ['marine-conservation', 'coral-reefs', 'torres-strait-islander', 'fishing-rights'],
+      tags: [
+        'marine-conservation',
+        'coral-reefs',
+        'torres-strait-islander',
+        'fishing-rights',
+        'australian',
+      ],
       groupMemberships: ['torres-strait-conservation', 'pacific-islander-alliance'],
     },
 

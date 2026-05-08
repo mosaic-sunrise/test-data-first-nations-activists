@@ -1,6 +1,6 @@
 # First Nations Activists Dataset - Diversity Report
 
-_Generated on 2025-08-18_
+_Generated on 2026-05-08_
 _Total People: 103_
 
 ## Geographic Distribution
@@ -82,17 +82,19 @@ _Total People: 103_
 
 ## Pronoun Distribution
 
-| Pronouns      | Count | Percentage |
-| ------------- | ----- | ---------- |
-| Not specified | 103   | 100.0%     |
+| Pronouns  | Count | Percentage |
+| --------- | ----- | ---------- |
+| she/her   | 56    | 54.4%      |
+| he/him    | 46    | 44.7%      |
+| they/them | 1     | 1.0%       |
 
 ## Data Completeness
 
 | Field         | With Data | Without Data | Completion Rate |
 | ------------- | --------- | ------------ | --------------- |
 | Address       | 102       | 1            | 99.0%           |
-| Date of Birth | 0         | 103          | 0.0%            |
-| Pronouns      | 0         | 103          | 0.0%            |
+| Date of Birth | 103       | 0            | 100.0%          |
+| Pronouns      | 103       | 0            | 100.0%          |
 | Bio           | 83        | 20           | 80.6%           |
 
 ## Diversity Metrics
@@ -105,10 +107,10 @@ _Total People: 103_
 
 ### Gender Diversity
 
-- **She/Her pronouns**: 0 (0.0%)
-- **He/Him pronouns**: 0 (0.0%)
-- **They/Them pronouns**: 0 (0.0%)
-- **Other/Unspecified**: 103
+- **She/Her pronouns**: 56 (54.4%)
+- **He/Him pronouns**: 46 (44.7%)
+- **They/Them pronouns**: 1 (1.0%)
+- **Other/Unspecified**: 0
 
 ### Unicode Character Usage
 

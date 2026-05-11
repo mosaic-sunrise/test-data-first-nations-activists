@@ -11,12 +11,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Winona LaDuke',
       dateOfBirth: new Date('1959-08-18'),
       pronouns: 'she/her',
-      bio: 'Winona LaDuke has spent her life defending what colonization tried to destroy. An Anishinaabe economist and environmental activist, she founded Honor the Earth to protect Indigenous lands from corporate exploitation, later becoming the Green Party\\u0027s vice presidential candidate to bring Native voices to national politics.',
+      bio: 'Winona LaDuke has spent her life defending what colonization tried to destroy. An Anishinaabe economist and environmental activist, she founded Honor the Earth to protect Indigenous lands from corporate exploitation, later becoming the Green Party\u0027s vice presidential candidate to bring Native voices to national politics.',
       email: 'winona.laduke@honorearth.test',
       phone: '+1-555-0101',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/4/4b/Eric_Janus_and_Winona_LaDuke_%283x4_cropped%29.jpg',
-      tags: ['environmental', 'renewable-energy', 'anishinaabe', 'green-party', 'food-sovereignty'],
+      tags: ['Environmental', 'Renewable-Energy', 'Anishinaabe', 'Green-Party', 'Food-Sovereignty'],
       groupMemberships: ['honor-the-earth', 'white-earth-land-recovery'],
       reference: 'https://en.wikipedia.org/wiki/Winona_LaDuke',
       address: {
@@ -40,7 +40,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+1-555-0102',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/7/70/Dennis_Banks_%288673602267%29_%28cropped%29.jpg',
-      tags: ['civil-rights', 'aim', 'anishinaabe', 'wounded-knee', 'activism'],
+      tags: ['Civil-Rights', 'AIM', 'Anishinaabe', 'Wounded-Knee', 'Activism'],
       groupMemberships: ['american-indian-movement', 'honor-the-earth'],
       reference: 'https://en.wikipedia.org/wiki/Dennis_Banks',
       address: {
@@ -59,11 +59,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Russell Means',
       dateOfBirth: new Date('1939-11-10'),
       pronouns: 'he/him',
-      bio: 'Russell Means never separated his art from his activism. An Oglala Lakota leader and AIM co-founder, he fought for Indigenous rights through direct action and later brought authentic Native representation to Hollywood films, refusing to let either arena compromise his commitment to his people\\u0027s sovereignty.',
+      bio: 'Russell Means never separated his art from his activism. An Oglala Lakota leader and AIM co-founder, he fought for Indigenous rights through direct action and later brought authentic Native representation to Hollywood films, refusing to let either arena compromise his commitment to his people\u0027s sovereignty.',
       email: 'russell.means@aim.test',
       phone: '+1-555-0103',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c6/RussellMeans1987.jpg',
-      tags: ['civil-rights', 'aim', 'oglala-lakota', 'wounded-knee', 'actor'],
+      tags: ['Civil-Rights', 'AIM', 'Oglala-Lakota', 'Wounded-Knee', 'Actor'],
       groupMemberships: ['american-indian-movement'],
       reference: 'https://en.wikipedia.org/wiki/Russell_Means',
       address: {
@@ -83,11 +83,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Cindy Blackstock',
       dateOfBirth: new Date('1964-01-01'),
       pronouns: 'she/her',
-      bio: 'Cindy Blackstock has dedicated her career to protecting Indigenous children from systemic discrimination. A Gitxsan social worker and advocate, she challenged the Canadian government in court over underfunding of child welfare services on reserves, exposing decades of institutional neglect that violated Indigenous children\\u0027s human rights.',
+      bio: 'Cindy Blackstock has dedicated her career to protecting Indigenous children from systemic discrimination. A Gitxsan social worker and advocate, she challenged the Canadian government in court over underfunding of child welfare services on reserves, exposing decades of institutional neglect that violated Indigenous children\u0027s human rights.',
       email: 'cindy.blackstock@fncaringsociety.test',
       phone: '+1-555-0104',
       picture: null,
-      tags: ['child-welfare', 'human-rights', 'gitxsan', 'social-work'],
+      tags: ['Child-Welfare', 'Human-Rights', 'Gitxsan', 'Social-Work'],
       groupMemberships: ['first-nations-caring-society'],
       reference: 'https://en.wikipedia.org/wiki/Cindy_Blackstock',
       address: {
@@ -106,12 +106,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Leonard Peltier',
       dateOfBirth: new Date('1944-09-12'),
       pronouns: 'he/him',
-      bio: 'Leonard Peltier became a symbol of Indigenous resistance during nearly five decades of imprisonment. An Anishinaabe-Dakota activist and member of the American Indian Movement, he was convicted in the 1975 shooting deaths of two FBI agents on the Pine Ridge Reservation amid a period of intense conflict and government surveillance of Native activists. His case became internationally recognized as emblematic of injustices faced by Indigenous people within the American legal system. In January 2025, President Biden granted him clemency, acknowledging the controversy surrounding his conviction and his status as one of the world\\u0027s longest-serving Indigenous political prisoners.',
+      bio: 'Leonard Peltier became a symbol of Indigenous resistance during nearly five decades of imprisonment. An Anishinaabe-Dakota activist and member of the American Indian Movement, he was convicted in the 1975 shooting deaths of two FBI agents on the Pine Ridge Reservation amid a period of intense conflict and government surveillance of Native activists. His case became internationally recognized as emblematic of injustices faced by Indigenous people within the American legal system. In January 2025, President Biden granted him clemency, acknowledging the controversy surrounding his conviction and his status as one of the world\u0027s longest-serving Indigenous political prisoners.',
       email: 'leonard.peltier@freeleonard.test',
       phone: '+1-555-0105',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/e/ef/Leonard_Peltier_mug_shot_%28cropped%29.jpg',
-      tags: ['political-prisoner', 'aim', 'civil-rights', 'clemency'],
+      tags: ['Political-Prisoner', 'AIM', 'Civil-Rights', 'Clemency'],
       groupMemberships: ['american-indian-movement'],
       reference: 'https://en.wikipedia.org/wiki/Leonard_Peltier',
       address: {
@@ -134,7 +134,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'autumn.peltier@anishinabek.test',
       phone: '+1-555-0106',
       picture: null,
-      tags: ['water-rights', 'youth-activism', 'anishinaabe', 'united-nations'],
+      tags: ['Water-Rights', 'Youth-Activism', 'Anishinaabe', 'United-Nations'],
       groupMemberships: ['anishinabek-nation', 'honor-the-earth'],
       reference: 'https://en.wikipedia.org/wiki/Autumn_Peltier',
       address: {
@@ -159,7 +159,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'noel.pearson@capeyork.test',
       phone: '+61-555-0107',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Noel_Pearson_8Feb10.jpg',
-      tags: ['land-rights', 'education', 'aboriginal', 'constitutional-recognition'],
+      tags: ['Land-Rights', 'Education', 'Constitutional-Recognition'],
       groupMemberships: ['cape-york-partnership'],
       reference: 'https://en.wikipedia.org/wiki/Noel_Pearson',
       address: {
@@ -183,11 +183,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+61-555-0108',
       picture: null,
       tags: [
-        'marine-conservation',
-        'coral-reefs',
-        'torres-strait-islander',
-        'fishing-rights',
-        'australian',
+        'Marine-Conservation',
+        'Coral-Reefs',
+        'Torres-Strait-Islander',
+        'Fishing-Rights',
+        'Australian',
       ],
       groupMemberships: ['torres-strait-conservation', 'pacific-islander-alliance'],
     },
@@ -198,12 +198,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Rigoberta Menchú',
       dateOfBirth: new Date('1959-01-09'),
       pronouns: 'she/her',
-      bio: 'Rigoberta Menchú emerged from unimaginable tragedy to become a powerful voice for Indigenous rights worldwide. A K\\u0027iche\\u0027 Maya woman from Guatemala, she witnessed the brutal murder of her family members during the Guatemalan Civil War, including her brother and mother who were tortured and killed by government forces. Rather than succumb to despair, Menchú channeled her grief into advocacy, documenting the systematic persecution of Maya communities and working to preserve Indigenous culture. Her testimony about the genocide against Guatemala\\u0027s Indigenous population brought international attention to their struggle and earned her the Nobel Peace Prize in 1992, making her the youngest recipient at the time.',
+      bio: 'Rigoberta Menchú emerged from unimaginable tragedy to become a powerful voice for Indigenous rights worldwide. A K\u0027iche\u0027 Maya woman from Guatemala, she witnessed the brutal murder of her family members during the Guatemalan Civil War, including her brother and mother who were tortured and killed by government forces. Rather than succumb to despair, Menchú channeled her grief into advocacy, documenting the systematic persecution of Maya communities and working to preserve Indigenous culture. Her testimony about the genocide against Guatemala\u0027s Indigenous population brought international attention to their struggle and earned her the Nobel Peace Prize in 1992, making her the youngest recipient at the time.',
       email: 'rigoberta.menchu@nobelpeace.test',
       phone: '+502-555-0108',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/8/81/20240620_NP_PRESIDENTE_BERNARDO_AREVALO_Y_KARIN_HERRERA_PARTICIPAN_EN_DIALOGO_PREMIO_NOBEL_DE_LA_PAZ_054_%28cropped%29.jpg',
-      tags: ['human-rights', 'nobel-laureate', 'maya', 'social-justice'],
+      tags: ['Human-Rights', 'Nobel-Laureate', 'Maya', 'Social-Justice'],
       groupMemberships: ['rigoberta-menchu-foundation'],
       reference: 'https://en.wikipedia.org/wiki/Rigoberta_Mench%C3%BA',
       address: {
@@ -223,11 +223,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Clyde Bellecourt',
       dateOfBirth: new Date('1936-05-08'),
       pronouns: 'he/him',
-      bio: 'Clyde Bellecourt understood that Indigenous people in cities faced the same oppression as those on reservations, just in different forms. An Anishinaabe activist and co-founder of the American Indian Movement, he organized Native communities in Minneapolis to fight police brutality and systemic discrimination. His work transformed urban Indigenous activism and proved that Native identity could thrive in concrete jungles as powerfully as on ancestral lands. Bellecourt\\u0027s organizing laid the groundwork for AIM\\u0027s later nationwide actions, making Minneapolis the birthplace of modern Native American civil rights.',
+      bio: 'Clyde Bellecourt understood that Indigenous people in cities faced the same oppression as those on reservations, just in different forms. An Anishinaabe activist and co-founder of the American Indian Movement, he organized Native communities in Minneapolis to fight police brutality and systemic discrimination. His work transformed urban Indigenous activism and proved that Native identity could thrive in concrete jungles as powerfully as on ancestral lands. Bellecourt\u0027s organizing laid the groundwork for AIM\u0027s later nationwide actions, making Minneapolis the birthplace of modern Native American civil rights.',
       email: 'clyde.bellecourt@aim.test',
       phone: '+1-555-0109',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/C_Bellecourt_by_M_Spencer.jpg',
-      tags: ['civil-rights', 'aim', 'anishinaabe', 'urban-activism'],
+      tags: ['Civil-Rights', 'AIM', 'Anishinaabe', 'Urban-Activism'],
       groupMemberships: ['american-indian-movement', 'honor-the-earth'],
       reference: 'https://en.wikipedia.org/wiki/Clyde_Bellecourt',
       address: {
@@ -246,11 +246,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Mary Brave Bird',
       dateOfBirth: new Date('1954-09-26'),
       pronouns: 'she/her',
-      bio: 'Mary Brave Bird lived through one of the most intense moments of Native American resistance when she gave birth to her son during the 1973 occupation of Wounded Knee. A Lakota activist and member of AIM, she faced federal agents and military forces while bringing new life into a community under siege. Her experience became a powerful symbol of Indigenous women\\u0027s strength and the continuation of Native life despite government attempts at suppression. Brave Bird later wrote about her experiences in powerful memoirs that documented both the brutality of government boarding schools and the fierce resistance of her generation.',
+      bio: 'Mary Brave Bird lived through one of the most intense moments of Native American resistance when she gave birth to her son during the 1973 occupation of Wounded Knee. A Lakota activist and member of AIM, she faced federal agents and military forces while bringing new life into a community under siege. Her experience became a powerful symbol of Indigenous women\u0027s strength and the continuation of Native life despite government attempts at suppression. Brave Bird later wrote about her experiences in powerful memoirs that documented both the brutality of government boarding schools and the fierce resistance of her generation.',
       email: 'mary.bravebird@aim.test',
       phone: '+1-555-0110',
       picture: null,
-      tags: ['civil-rights', 'aim', 'lakota', 'wounded-knee', 'author'],
+      tags: ['Civil-Rights', 'AIM', 'Lakota', 'Wounded-Knee', 'Author'],
       groupMemberships: ['american-indian-movement'],
       reference: 'https://en.wikipedia.org/wiki/Mary_Brave_Bird',
       address: {
@@ -269,12 +269,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Charlene Teters',
       dateOfBirth: new Date('1952-02-18'),
       pronouns: 'she/her',
-      bio: 'Charlene Teters confronted racism when she least expected it - at her son\\u0027s University of Illinois basketball game, where she witnessed the degrading spectacle of the "Chief Illiniwek" mascot. A Spokane artist and activist, she organized protests against Native American sports mascots, challenging institutions across the country to abandon these harmful stereotypes. Her advocacy sparked a national movement that forced some universities and professional teams to change their practices, though many continue to resist. Teters\\u0027 work exposed how deeply embedded these racist representations were in American sports culture.',
+      bio: 'Charlene Teters confronted racism when she least expected it - at her son\u0027s University of Illinois basketball game, where she witnessed the degrading spectacle of the "Chief Illiniwek" mascot. A Spokane artist and activist, she organized protests against Native American sports mascots, challenging institutions across the country to abandon these harmful stereotypes. Her advocacy sparked a national movement that forced some universities and professional teams to change their practices, though many continue to resist. Teters\u0027 work exposed how deeply embedded these racist representations were in American sports culture.',
       email: 'charlene.teters@spokane.test',
       phone: '+1-555-0111',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/b/b6/Charlene_Teters_-_Senate_Hearing_on_05_May_2011.jpg',
-      tags: ['artist', 'anti-racism', 'spokane', 'mascot-activism'],
+      tags: ['Artist', 'Anti-Racism', 'Spokane', 'Mascot-Activism'],
       groupMemberships: ['national-coalition-racism-sports'],
       reference: 'https://en.wikipedia.org/wiki/Charlene_Teters',
       address: {
@@ -292,11 +292,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Sharice Davids',
       dateOfBirth: new Date('1980-05-22'),
       pronouns: 'she/her',
-      bio: 'Sharice Davids broke barriers both in the octagon and in Congress, bringing her diverse background to bear on policy issues affecting Indigenous communities. A Ho-Chunk attorney and former mixed martial arts fighter, she made history in 2018 by becoming one of the first Native American women elected to Congress, representing Kansas\\u0027s third congressional district. Her path to Capitol Hill included time as a White House Fellow and work on economic development projects in Indian Country. In Congress, Davids has focused on infrastructure, healthcare, and economic issues while advocating for tribal sovereignty and Indigenous rights.',
+      bio: 'Sharice Davids broke barriers both in the octagon and in Congress, bringing her diverse background to bear on policy issues affecting Indigenous communities. A Ho-Chunk attorney and former mixed martial arts fighter, she made history in 2018 by becoming one of the first Native American women elected to Congress, representing Kansas\u0027s third congressional district. Her path to Capitol Hill included time as a White House Fellow and work on economic development projects in Indian Country. In Congress, Davids has focused on infrastructure, healthcare, and economic issues while advocating for tribal sovereignty and Indigenous rights.',
       email: 'sharice.davids@congress.test',
       phone: '+1-555-0112',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/8/81/Sharice_Davids.jpg',
-      tags: ['congress', 'ho-chunk', 'politics', 'lawyer', 'lgbtq'],
+      tags: ['Congress', 'Ho-Chunk', 'Politics', 'Lawyer', 'LGBTQ'],
       groupMemberships: ['us-congress-native-caucus'],
       reference: 'https://en.wikipedia.org/wiki/Sharice_Davids',
       address: {
@@ -318,11 +318,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Buffy Sainte-Marie',
       dateOfBirth: new Date('1941-02-20'),
       pronouns: 'she/her',
-      bio: 'Buffy Sainte-Marie used her music as a vehicle for social change and Indigenous rights advocacy throughout her decades-long career. A Cree singer-songwriter and educator, she wrote powerful protest songs that addressed war, social injustice, and the struggles facing Indigenous peoples. Her 1964 song "Universal Soldier" became an anti-war anthem, while tracks like "Now That the Buffalo\\u0027s Gone" brought attention to the ongoing displacement and oppression of Native Americans. Beyond music, Sainte-Marie pioneered the use of digital technology in Indigenous education and spent years working to improve educational opportunities for Native children.',
+      bio: 'Buffy Sainte-Marie used her music as a vehicle for social change and Indigenous rights advocacy throughout her decades-long career. A Cree singer-songwriter and educator, she wrote powerful protest songs that addressed war, social injustice, and the struggles facing Indigenous peoples. Her 1964 song "Universal Soldier" became an anti-war anthem, while tracks like "Now That the Buffalo\u0027s Gone" brought attention to the ongoing displacement and oppression of Native Americans. Beyond music, Sainte-Marie pioneered the use of digital technology in Indigenous education and spent years working to improve educational opportunities for Native children.',
       email: 'buffy.saintemarie@music.test',
       phone: '+1-555-0113',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/1970_Buffy_Sainte-Marie.jpg',
-      tags: ['musician', 'cree', 'activist', 'folk-singer'],
+      tags: ['Musician', 'Cree', 'Activist', 'Folk-Singer'],
       groupMemberships: ['indigenous-musicians-collective'],
       reference: 'https://en.wikipedia.org/wiki/Buffy_Sainte-Marie',
       address: {
@@ -345,7 +345,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ovide.mercredi@afn.test',
       phone: '+1-555-0114',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Ovide_Mercredi.JPG',
-      tags: ['politics', 'cree', 'assembly-first-nations', 'grand-chief'],
+      tags: ['Politics', 'Cree', 'Assembly-First-Nations', 'Grand-Chief'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ovide_Mercredi',
       address: {
@@ -369,7 +369,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'suzan.harjo@nmai.test',
       phone: '+1-555-0115',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/6/62/Suzan_shown_harjo_09.jpg',
-      tags: ['policy', 'cheyenne', 'muscogee', 'repatriation'],
+      tags: ['Policy', 'Cheyenne', 'Muscogee', 'Repatriation'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Suzan_Shown_Harjo',
       address: {
@@ -387,12 +387,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'John Trudell',
       dateOfBirth: new Date('1946-02-15'),
       pronouns: 'he/him',
-      bio: 'John Trudell channeled his activism through poetry, music, and spoken word, becoming one of the most compelling voices in the American Indian Movement. A Santee Dakota activist, he served as AIM\\u0027s national chairman for many years and was a constant presence at protests and occupations throughout the 1970s. After the suspicious deaths of his wife, three children, and mother-in-law in a house fire in 1979, Trudell turned increasingly to artistic expression as a form of resistance. His poetry and music explored themes of Indigenous identity, spirituality, and the ongoing struggle against colonization, creating works that resonated far beyond Native communities.',
+      bio: 'John Trudell channeled his activism through poetry, music, and spoken word, becoming one of the most compelling voices in the American Indian Movement. A Santee Dakota activist, he served as AIM\u0027s national chairman for many years and was a constant presence at protests and occupations throughout the 1970s. After the suspicious deaths of his wife, three children, and mother-in-law in a house fire in 1979, Trudell turned increasingly to artistic expression as a form of resistance. His poetry and music explored themes of Indigenous identity, spirituality, and the ongoing struggle against colonization, creating works that resonated far beyond Native communities.',
       email: 'john.trudell@aim.test',
       phone: '+1-555-0116',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/e/e4/John_Trudell_1997-09-24_61232-37.jpg',
-      tags: ['poet', 'santee-dakota', 'aim', 'musician', 'spokesman'],
+      tags: ['Poet', 'Santee-Dakota', 'AIM', 'Musician', 'Spokesman'],
       groupMemberships: ['american-indian-movement', 'indigenous-musicians-collective'],
       reference: 'https://en.wikipedia.org/wiki/John_Trudell',
       address: {
@@ -416,7 +416,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+1-555-0117',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/f/f1/Deb_Haaland%2C_official_portrait%2C_116th_Congress_%28cropped%29.jpg',
-      tags: ['congress', 'laguna-pueblo', 'cabinet', 'interior-secretary', 'politician'],
+      tags: ['Congress', 'Laguna-Pueblo', 'Cabinet', 'Interior-Secretary', 'Politician'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Deb_Haaland',
       address: {
@@ -439,7 +439,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ladonna.harris@ait.test',
       phone: '+1-555-0118',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/LaDonnaHarris.png',
-      tags: ['comanche', 'activism', 'diplomacy', 'tribal-relations'],
+      tags: ['Comanche', 'Activism', 'Diplomacy', 'Tribal-Relations'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/LaDonna_Harris',
       address: {
@@ -460,12 +460,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Ailton Krenak',
       dateOfBirth: new Date('1953-09-29'),
       pronouns: 'he/him',
-      bio: 'Ailton Krenak has emerged as one of Brazil\\u0027s most important Indigenous intellectuals, advocating for a fundamental shift in humanity\\u0027s relationship with nature. A Krenak leader, philosopher, and writer from Minas Gerais, he has spent decades challenging Western notions of progress and development that prioritize economic growth over environmental sustainability. His writings and speeches emphasize the urgent need to reconnect with Indigenous knowledge systems that view humans as part of, rather than separate from, the natural world. Krenak argues that Indigenous peoples have been "postponing the end of the world" since colonization began, and their wisdom is essential for addressing the climate crisis.',
+      bio: 'Ailton Krenak has emerged as one of Brazil\u0027s most important Indigenous intellectuals, advocating for a fundamental shift in humanity\u0027s relationship with nature. A Krenak leader, philosopher, and writer from Minas Gerais, he has spent decades challenging Western notions of progress and development that prioritize economic growth over environmental sustainability. His writings and speeches emphasize the urgent need to reconnect with Indigenous knowledge systems that view humans as part of, rather than separate from, the natural world. Krenak argues that Indigenous peoples have been "postponing the end of the world" since colonization began, and their wisdom is essential for addressing the climate crisis.',
       email: 'ailton.krenak@krenak.test',
       phone: '+55-555-0119',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/3/3d/Ailton_Krenak_%285269420566%29_%28cropped%29.jpg',
-      tags: ['philosopher', 'krenak', 'environmental', 'author'],
+      tags: ['Philosopher', 'Krenak', 'Environmental', 'Author'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ailton_Krenak',
       address: {
@@ -484,12 +484,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Sonia Guajajara',
       dateOfBirth: new Date('1974-03-06'),
       pronouns: 'she/her',
-      bio: 'Sonia Guajajara has become Brazil\\u0027s most prominent Indigenous political leader, advocating for forest protection and Indigenous rights on both national and international stages. A Guajajara leader from the Amazon rainforest, she has coordinated the Articulation of Indigenous Peoples of Brazil, representing over 300 ethnic groups in their fight against deforestation, land grabbing, and cultural destruction. In 2018, she made history by running for Vice President of Brazil on the ticket with Guilherme Boulos, bringing Indigenous perspectives to mainstream political discourse. Her leadership has been crucial in organizing resistance to policies that threaten Indigenous territories and in building international solidarity for Amazon protection.',
+      bio: 'Sonia Guajajara has become Brazil\u0027s most prominent Indigenous political leader, advocating for forest protection and Indigenous rights on both national and international stages. A Guajajara leader from the Amazon rainforest, she has coordinated the Articulation of Indigenous Peoples of Brazil, representing over 300 ethnic groups in their fight against deforestation, land grabbing, and cultural destruction. In 2018, she made history by running for Vice President of Brazil on the ticket with Guilherme Boulos, bringing Indigenous perspectives to mainstream political discourse. Her leadership has been crucial in organizing resistance to policies that threaten Indigenous territories and in building international solidarity for Amazon protection.',
       email: 'sonia.guajajara@apib.test',
       phone: '+55-555-0120',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/f/f9/11.01.2023_-_Cerim%C3%B4nias_de_assun%C3%A7%C3%A3o_nos_cargos_das_ministras_da_Igualdade_Racial%2C_Anielle_Franco%2C_e_dos_Povos_Ind%C3%ADgenas%2C_S%C3%B4nia_Guajajara_%2852650320567%29_%28cropped%29.jpg',
-      tags: ['guajajara', 'politics', 'vice-president-candidate', 'forest-defender'],
+      tags: ['Guajajara', 'Politics', 'Vice-President-Candidate', 'Forest-Defender'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Sonia_Guajajara',
       address: {
@@ -514,7 +514,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'annamae.aquash@aim.test',
       phone: '+1-555-0121',
       picture: 'https://upload.wikimedia.org/wikipedia/en/a/aa/Anna_Mae_Pictou-Aquash.jpg',
-      tags: ['mikmaq', 'aim', 'civil-rights', 'martyr'],
+      tags: ['Mikmaq', 'AIM', 'Civil-Rights', 'Martyr'],
       groupMemberships: ['american-indian-movement'],
       reference: 'https://en.wikipedia.org/wiki/Anna_Mae_Aquash',
       address: {
@@ -536,7 +536,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ada.deer@bia.test',
       phone: '+1-555-0122',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Ada_E._Deer.jpg',
-      tags: ['menominee', 'bia', 'termination-restoration', 'federal-recognition'],
+      tags: ['Menominee', 'BIA', 'Termination-Restoration', 'Federal-Recognition'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ada_Deer',
       address: {
@@ -555,11 +555,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Ben Nighthorse Campbell',
       dateOfBirth: new Date('1933-04-13'),
       pronouns: 'he/him',
-      bio: 'Ben Nighthorse Campbell broke barriers as the first Native American elected to the U.S. Senate in more than 60 years, serving Colorado from 1993 to 2005. A Northern Cheyenne member who grew up in poverty in California, Campbell\\u0027s path to Capitol Hill was unconventional - he was an Olympic judo competitor in 1964, a jewelry designer, and a rancher before entering politics. In the Senate, he chaired the Indian Affairs Committee and worked on legislation affecting tribal sovereignty, cultural preservation, and veterans\\u0027 affairs. Campbell\\u0027s independent spirit led him to switch from Democrat to Republican in 1995, always prioritizing his constituents and Indigenous issues over party politics.',
+      bio: 'Ben Nighthorse Campbell broke barriers as the first Native American elected to the U.S. Senate in more than 60 years, serving Colorado from 1993 to 2005. A Northern Cheyenne member who grew up in poverty in California, Campbell\u0027s path to Capitol Hill was unconventional - he was an Olympic judo competitor in 1964, a jewelry designer, and a rancher before entering politics. In the Senate, he chaired the Indian Affairs Committee and worked on legislation affecting tribal sovereignty, cultural preservation, and veterans\u0027 affairs. Campbell\u0027s independent spirit led him to switch from Democrat to Republican in 1995, always prioritizing his constituents and Indigenous issues over party politics.',
       email: 'ben.campbell@senate.test',
       phone: '+1-555-0123',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/7/75/BenNCampbell.jpg',
-      tags: ['northern-cheyenne', 'senator', 'olympian', 'jewelry-maker'],
+      tags: ['Northern-Cheyenne', 'Senator', 'Olympian', 'Jewelry-Maker'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ben_Nighthorse_Campbell',
       address: {
@@ -581,7 +581,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'vine.deloria@colorado.test',
       phone: '+1-555-0124',
       picture: 'https://upload.wikimedia.org/wikipedia/en/6/63/Vine_Deloria.jpg',
-      tags: ['standing-rock-sioux', 'author', 'scholar', 'custer-died'],
+      tags: ['Standing-Rock-Sioux', 'Author', 'Scholar', 'Custer-Died'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Vine_Deloria_Jr.',
       address: {
@@ -603,7 +603,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'wilma.mankiller@cherokee.test',
       phone: '+1-555-0125',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Wilma_Mankiller_1998.jpg',
-      tags: ['cherokee', 'chief', 'first-woman-chief', 'tribal-development'],
+      tags: ['Cherokee', 'Chief', 'First-Woman-Chief', 'Tribal-Development'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Wilma_Mankiller',
       address: {
@@ -622,12 +622,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Leslie Marmon Silko',
       dateOfBirth: new Date('1948-03-05'),
       pronouns: 'she/her',
-      bio: 'Leslie Marmon Silko transformed American literature through her innovative blend of Laguna Pueblo oral traditions and contemporary narrative techniques. Growing up at Laguna Pueblo in New Mexico, she learned traditional stories from her grandmother and aunts, which profoundly influenced her writing. Her 1977 novel "Ceremony" became a landmark work in Native American literature, exploring themes of trauma, healing, and cultural continuity through the story of a World War II veteran returning to the reservation. Silko\\u0027s poetry and fiction have challenged literary conventions while preserving and revitalizing Indigenous storytelling traditions for new generations.',
+      bio: 'Leslie Marmon Silko transformed American literature through her innovative blend of Laguna Pueblo oral traditions and contemporary narrative techniques. Growing up at Laguna Pueblo in New Mexico, she learned traditional stories from her grandmother and aunts, which profoundly influenced her writing. Her 1977 novel "Ceremony" became a landmark work in Native American literature, exploring themes of trauma, healing, and cultural continuity through the story of a World War II veteran returning to the reservation. Silko\u0027s poetry and fiction have challenged literary conventions while preserving and revitalizing Indigenous storytelling traditions for new generations.',
       email: 'leslie.silko@laguna.test',
       phone: '+1-555-0126',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/7/77/Headliner_Leslie_Marmon_Silko_at_the_banquet_reading_%286233509362%29_%28cropped%29.jpg',
-      tags: ['laguna-pueblo', 'author', 'storyteller', 'ceremony'],
+      tags: ['Laguna-Pueblo', 'Author', 'Storyteller', 'Ceremony'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Leslie_Marmon_Silko',
       address: {
@@ -645,12 +645,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'N. Scott Momaday',
       dateOfBirth: new Date('1934-02-27'),
       pronouns: 'he/him',
-      bio: 'N. Scott Momaday made literary history in 1969 when he became the first Native American to win the Pulitzer Prize for Fiction for his novel "House Made of Dawn." A Kiowa author, poet, and professor, Momaday grew up between two worlds - his father\\u0027s Kiowa heritage and his mother\\u0027s European-American background - experiences that deeply influenced his writing. His work explores themes of identity, place, and the relationship between traditional and modern ways of life. Beyond his literary achievements, Momaday has been a influential educator, helping establish Native American studies programs and mentoring countless Indigenous writers and scholars.',
+      bio: 'N. Scott Momaday made literary history in 1969 when he became the first Native American to win the Pulitzer Prize for Fiction for his novel "House Made of Dawn." A Kiowa author, poet, and professor, Momaday grew up between two worlds - his father\u0027s Kiowa heritage and his mother\u0027s European-American background - experiences that deeply influenced his writing. His work explores themes of identity, place, and the relationship between traditional and modern ways of life. Beyond his literary achievements, Momaday has been a influential educator, helping establish Native American studies programs and mentoring countless Indigenous writers and scholars.',
       email: 'scott.momaday@kiowa.test',
       phone: '+1-555-0127',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/4/4d/N_Scott_Momaday_George_W_Bush.jpg',
-      tags: ['kiowa', 'pulitzer', 'author', 'house-made-dawn'],
+      tags: ['Kiowa', 'Pulitzer', 'Author', 'House-Made-Dawn'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/N._Scott_Momaday',
       address: {
@@ -668,11 +668,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Maria Tallchief',
       dateOfBirth: new Date('1925-01-24'),
       pronouns: 'she/her',
-      bio: 'Maria Tallchief revolutionized American ballet as the first major prima ballerina of Native American descent, performing on the world\\u0027s most prestigious stages. Born Elizabeth Marie Tall Chief on the Osage reservation in Oklahoma, she began dancing as a child and later moved to New York to pursue her career. As the principal dancer for the New York City Ballet under George Balanchine, she helped establish the company\\u0027s international reputation through her performances in ballets like "Firebird" and "Swan Lake." Tallchief\\u0027s artistry and technical brilliance opened doors for other Native American dancers while challenging stereotypes about Indigenous people in classical arts.',
+      bio: 'Maria Tallchief revolutionized American ballet as the first major prima ballerina of Native American descent, performing on the world\u0027s most prestigious stages. Born Elizabeth Marie Tall Chief on the Osage reservation in Oklahoma, she began dancing as a child and later moved to New York to pursue her career. As the principal dancer for the New York City Ballet under George Balanchine, she helped establish the company\u0027s international reputation through her performances in ballets like "Firebird" and "Swan Lake." Tallchief\u0027s artistry and technical brilliance opened doors for other Native American dancers while challenging stereotypes about Indigenous people in classical arts.',
       email: 'maria.tallchief@ballet.test',
       phone: '+1-555-0128',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Maria_Tallchief_1961.png',
-      tags: ['osage', 'ballet', 'prima-ballerina', 'dance'],
+      tags: ['Osage', 'Ballet', 'Prima-Ballerina', 'Dance'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Maria_Tallchief',
       address: {
@@ -691,11 +691,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Jim Thorpe',
       dateOfBirth: new Date('1887-05-28'),
       pronouns: 'he/him',
-      bio: 'Jim Thorpe is widely considered one of the greatest athletes in history, excelling in multiple sports during the early 20th century. A member of the Sac and Fox Nation, Thorpe attended the Carlisle Indian Industrial School where he first gained national attention for his athletic abilities. At the 1912 Stockholm Olympics, he won gold medals in both the pentathlon and decathlon, leading King Gustav V of Sweden to declare him "the world\\u0027s greatest athlete." Thorpe went on to play professional football and baseball, helping establish the National Football League and proving that Indigenous athletes could compete at the highest levels in any sport.',
+      bio: 'Jim Thorpe is widely considered one of the greatest athletes in history, excelling in multiple sports during the early 20th century. A member of the Sac and Fox Nation, Thorpe attended the Carlisle Indian Industrial School where he first gained national attention for his athletic abilities. At the 1912 Stockholm Olympics, he won gold medals in both the pentathlon and decathlon, leading King Gustav V of Sweden to declare him "the world\u0027s greatest athlete." Thorpe went on to play professional football and baseball, helping establish the National Football League and proving that Indigenous athletes could compete at the highest levels in any sport.',
       email: 'jim.thorpe@olympic.test',
       phone: '+1-555-0129',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/6/64/Jim_Thorpe_1913b-cr.jpg',
-      tags: ['sac-fox', 'olympics', 'athlete', 'football', 'baseball'],
+      tags: ['Sac-Fox', 'Olympics', 'Athlete', 'Football', 'Baseball'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Jim_Thorpe',
       address: {
@@ -713,11 +713,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Ira Hayes',
       dateOfBirth: new Date('1923-01-12'),
       pronouns: 'he/him',
-      bio: 'Ira Hayes became an American icon as one of the six Marines who raised the flag at Iwo Jima during World War II, immortalized in the famous photograph by Joe Rosenthal. A Pima Marine from Arizona, Hayes served with distinction in the Pacific Theater, participating in some of the war\\u0027s bloodiest battles. Despite his hero status, Hayes struggled with the contradictions of fighting for a country that had historically oppressed Indigenous peoples, and he battled alcoholism and poverty after the war. His story highlights both the patriotic service of Native Americans in the military and the ongoing challenges they faced in achieving equality at home.',
+      bio: 'Ira Hayes became an American icon as one of the six Marines who raised the flag at Iwo Jima during World War II, immortalized in the famous photograph by Joe Rosenthal. A Pima Marine from Arizona, Hayes served with distinction in the Pacific Theater, participating in some of the war\u0027s bloodiest battles. Despite his hero status, Hayes struggled with the contradictions of fighting for a country that had historically oppressed Indigenous peoples, and he battled alcoholism and poverty after the war. His story highlights both the patriotic service of Native Americans in the military and the ongoing challenges they faced in achieving equality at home.',
       email: 'ira.hayes@marines.test',
       phone: '+1-555-0130',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Ira_Hayes.jpg',
-      tags: ['pima', 'marine', 'iwo-jima', 'world-war-ii'],
+      tags: ['Pima', 'Marine', 'Iwo-Jima', 'World-War-II'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ira_Hayes',
       address: {
@@ -742,7 +742,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'codetalkers@navajo.test',
       phone: '+1-555-0131',
       picture: null,
-      tags: ['navajo', 'code-talkers', 'world-war-ii', 'marines'],
+      tags: ['Navajo', 'Code-Talkers', 'World-War-II', 'Marines'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Code_talker',
       address: {
@@ -759,12 +759,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-032',
       fullName: 'Sarah Winnemucca',
       dateOfBirth: new Date('1844-01-01'),
-      pronouns: 'she/her',
+      pronouns: null,
       bio: "Sarah Winnemucca navigated impossible circumstances as a Northern Paiute interpreter, scout, and advocate during the violent decades of western expansion. Her 1883 autobiography, 'Life Among the Piutes,' documented the broken promises and brutal treatment her people suffered at the hands of Indian agents and settlers, making her one of the first Native American women to publish a book in English. She traveled across the country giving hundreds of lectures to raise awareness about conditions on reservations and petition for Paiute land rights, though the legislation she helped secure was never properly implemented. Winnemucca's efforts to work within the system while it destroyed her people's way of life illustrate the painful compromises Indigenous leaders faced during this period.",
       email: 'sarah.winnemucca@paiute.test',
       phone: '+1-555-0132',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/Sarah_Winnemucca.jpg',
-      tags: ['northern-paiute', 'interpreter', 'author', 'peace-advocate'],
+      tags: ['Northern-Paiute', 'Interpreter', 'Author', 'Peace-Advocate'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Sarah_Winnemucca',
       address: {
@@ -782,13 +782,13 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-033',
       fullName: 'Sitting Bull',
       dateOfBirth: new Date('1831-01-01'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: 'Sitting Bull was a Hunkpapa Lakota holy man whose spiritual leadership unified the Lakota, Cheyenne, and Arapaho nations in their defense of the Black Hills against U.S. military invasion. His vision before the Battle of the Little Bighorn in 1876, where U.S. forces under Custer were defeated, cemented his role as both spiritual and political leader of the resistance. Forced into exile in Canada and later confined to the Standing Rock Reservation, Sitting Bull continued to resist assimilation policies until his assassination by Indian police in 1890, just weeks before the Wounded Knee Massacre. His life and death embody the systematic destruction of Lakota autonomy that federal policy pursued throughout the nineteenth century.',
       email: 'sitting.bull@lakota.test',
       phone: '+1-555-0133',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/3/3f/Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg',
-      tags: ['hunkpapa-lakota', 'holy-man', 'little-bighorn', 'resistance'],
+      tags: ['Hunkpapa-Lakota', 'Holy-Man', 'Little-Bighorn', 'Resistance'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Sitting_Bull',
       address: {
@@ -806,12 +806,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-034',
       fullName: 'Crazy Horse',
       dateOfBirth: new Date('1840-01-01'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: "Crazy Horse was an Oglala Lakota war leader who fought to defend his people's territory from U.S. military invasion during the wars for the Black Hills. Known for his tactical brilliance and personal courage, he played a decisive role in the defeat of Custer at the Little Bighorn and continued to resist until 1877, when starvation and military pressure forced his band to surrender. He was killed later that year at Fort Robinson under disputed circumstances, bayoneted while allegedly resisting imprisonment. Crazy Horse never allowed his photograph to be taken and refused to sign any treaty, maintaining his resistance to the reservation system until his death at approximately thirty-seven years old.",
       email: 'crazy.horse@oglala.test',
       phone: '+1-555-0134',
       picture: 'https://upload.wikimedia.org/wikipedia/en/7/7b/Crazy_Horse_drawing.jpg',
-      tags: ['oglala-lakota', 'war-leader', 'little-bighorn', 'never-surrender'],
+      tags: ['Oglala-Lakota', 'War-Leader', 'Little-Bighorn', 'Never-Surrender'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Crazy_Horse',
       address: {
@@ -829,12 +829,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-035',
       fullName: 'Tecumseh',
       dateOfBirth: new Date('1768-03-01'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: "Tecumseh worked to build a confederation of Indigenous nations that could collectively resist American expansion into the Ohio Valley and Great Lakes region in the early nineteenth century. A Shawnee leader and renowned orator, he traveled thousands of miles to unite disparate tribes around the principle that no single nation could sell land that belonged to all Indigenous peoples collectively. His alliance with the British during the War of 1812 represented the last significant military resistance to American expansion east of the Mississippi. Tecumseh's death at the Battle of the Thames in 1813 effectively ended the possibility of a unified Indigenous resistance in the eastern territories, leaving individual nations to face removal policies alone.",
       email: 'tecumseh@shawnee.test',
       phone: '+1-555-0135',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Tecumseh02.jpg',
-      tags: ['shawnee', 'confederacy', 'pan-indian', 'war-of-1812'],
+      tags: ['Shawnee', 'Confederacy', 'Pan-Indian', 'War-Of-1812'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Tecumseh',
       address: {
@@ -852,12 +852,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-036',
       fullName: 'Geronimo',
       dateOfBirth: new Date('1829-06-16'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: 'Geronimo led Chiricahua Apache resistance against both Mexican and American forces for over two decades, becoming the last Indigenous leader to formally surrender to the United States in 1886. A medicine man and war leader, he fought to avenge the murder of his family by Mexican soldiers and later to resist the forced relocation of his people to the San Carlos Reservation. His small band of fighters repeatedly escaped from reservations and evaded thousands of troops, using knowledge of the harsh desert terrain that their pursuers lacked. Geronimo spent his final twenty-three years as a prisoner of war, never permitted to return to his homeland, dying at Fort Sill in 1909 while still technically a captive.',
       email: 'geronimo@apache.test',
       phone: '+1-555-0136',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/5/54/GeronimoRinehart.jpg',
-      tags: ['apache', 'medicine-man', 'warrior', 'last-resistance'],
+      tags: ['Apache', 'Medicine-Man', 'Warrior', 'Last-Resistance'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Geronimo',
       address: {
@@ -874,13 +874,13 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-037',
       fullName: 'Chief Joseph',
       dateOfBirth: new Date('1840-03-03'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: "Chief Joseph led the Nez Perce on a 1,170-mile fighting retreat in 1877, attempting to reach Canada rather than accept forced relocation to a distant reservation. When the U.S. government violated treaties and demanded the Wallowa band leave their homeland in Oregon, Joseph initially counseled peace but was drawn into conflict after young warriors retaliated against settler violence. His surrender speech, in which he reportedly said 'I will fight no more forever,' has often been romanticized while obscuring the betrayal that followed: rather than being allowed to return home as promised, his people were sent to Indian Territory where many died from disease. Joseph spent the rest of his life petitioning unsuccessfully for his people's return to their ancestral lands.",
       email: 'chief.joseph@nezperce.test',
       phone: '+1-555-0137',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg',
-      tags: ['nez-perce', 'chief', 'retreat', 'honor'],
+      tags: ['Nez-Perce', 'Chief', 'Retreat', 'Honor'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Chief_Joseph',
       address: {
@@ -897,13 +897,13 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-038',
       fullName: 'Pocahontas',
       dateOfBirth: new Date('1596-01-01'),
-      pronouns: 'she/her',
+      pronouns: null,
       bio: "Pocahontas was a Powhatan woman whose actual life has been largely obscured by centuries of colonial mythology and romantic fiction. Captured by English colonists in 1613 and held for ransom, she was baptized as Rebecca and married tobacco planter John Rolfe in what was essentially a diplomatic arrangement to secure peace between the Powhatan Confederacy and the Jamestown colony. She traveled to England where she was presented to aristocratic society as an example of successful 'civilizing' of Indigenous peoples, dying there at approximately twenty-one years old. Her story has been persistently distorted to serve colonial narratives of peaceful cultural exchange, erasing the coercion and violence that actually characterized English-Powhatan relations.",
       email: 'pocahontas@powhatan.test',
       phone: '+1-555-0138',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/b/b4/Pocahontas_by_Simon_van_de_Passe_%281616%29.png',
-      tags: ['powhatan', 'diplomat', 'cultural-bridge', 'jamestown'],
+      tags: ['Powhatan', 'Diplomat', 'Cultural-Bridge', 'Jamestown'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Pocahontas',
       address: {
@@ -920,13 +920,13 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-039',
       fullName: 'Sequoyah',
       dateOfBirth: new Date('1770-01-01'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: 'Sequoyah developed the Cherokee syllabary over approximately twelve years, creating a writing system that allowed Cherokee people to achieve widespread literacy within a single generation. A silversmith who never learned to read English, he created eighty-five characters representing the syllables of spoken Cherokee, enabling his nation to publish newspapers, government documents, and religious texts in their own language by the 1820s. His achievement demonstrated the sophistication of Cherokee intellectual culture at the very moment the U.S. government was pushing for their removal from ancestral lands. The syllabary remains in use today, though the Cherokee language itself faces the pressures of assimilation that have threatened Indigenous languages across North America.',
       email: 'sequoyah@cherokee.test',
       phone: '+1-555-0139',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/a/af/Henry_Inman_-_Sequoyah_-_Google_Art_Project.jpg',
-      tags: ['cherokee', 'syllabary', 'inventor', 'literacy'],
+      tags: ['Cherokee', 'Syllabary', 'Inventor', 'Literacy'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Sequoyah',
       address: {
@@ -949,7 +949,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'black.elk@oglala.test',
       phone: '+1-555-0140',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/9/98/Black_Elk.jpg',
-      tags: ['oglala-lakota', 'holy-man', 'vision', 'spiritual-teacher'],
+      tags: ['Oglala-Lakota', 'Holy-Man', 'Vision', 'Spiritual-Teacher'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Black_Elk',
       address: {
@@ -969,12 +969,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-041',
       fullName: 'Te Whiti-o-Rongomai',
       dateOfBirth: new Date('1830-01-01'),
-      pronouns: 'he/him',
+      pronouns: null,
       bio: 'Te Whiti-o-Rongomai established Parihaka as a beacon of peaceful resistance when the New Zealand government sought to crush Māori independence through force. This Taranaki leader and his people practiced nonviolent resistance against colonial land confiscation, welcoming government troops with children offering food even as their village was invaded in 1881. His philosophy of passive resistance influenced Mahatma Gandhi and demonstrated that Indigenous peoples could resist colonization through spiritual strength rather than violence. Te Whiti proved that moral authority could challenge military might, though the cost was the destruction of his thriving community.',
       email: 'te.whiti@parihaka.test',
       phone: '+64-555-0141',
       picture: null,
-      tags: ['maori', 'parihaka', 'nonviolent-resistance', 'taranaki', 'spiritual-leader'],
+      tags: ['Maori', 'Parihaka', 'Nonviolent-Resistance', 'Taranaki', 'Spiritual-Leader'],
       groupMemberships: ['parihaka-settlement', 'maori-peace-movement'],
       reference: 'https://en.wikipedia.org/wiki/Te_Whiti_o_Rongomai',
       address: {
@@ -997,7 +997,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'whina.cooper@landmarch.test',
       phone: '+64-555-0142',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Whina_Cooper_in_Hamilton.jpg',
-      tags: ['maori', 'land-march', 'te-rarawa', 'kuia', 'land-rights'],
+      tags: ['Maori', 'Land-March', 'Te-Rarawa', 'Kuia', 'Land-Rights'],
       groupMemberships: ['maori-land-march-committee', 'maori-womens-welfare-league'],
       reference: 'https://en.wikipedia.org/wiki/Whina_Cooper',
       address: {
@@ -1019,7 +1019,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'tainui.stephens@maorimedia.test',
       phone: '+64-555-0143',
       picture: null,
-      tags: ['maori', 'filmmaker', 'te-rarawa', 'television', 'storyteller'],
+      tags: ['Maori', 'Filmmaker', 'Te-Rarawa', 'Television', 'Storyteller'],
       groupMemberships: ['maori-television-collective', 'indigenous-filmmakers-aotearoa'],
       address: {
         street: '789 Test Street',
@@ -1041,7 +1041,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'donna.awatere@maorisovereignty.test',
       phone: '+64-555-0144',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/1/17/Donna_Awatere_Huata.jpg',
-      tags: ['maori', 'feminist', 'ngati-whakaue', 'sovereignty', 'activist'],
+      tags: ['Maori', 'Feminist', 'Ngati-Whakaue', 'Sovereignty', 'Activist'],
       groupMemberships: ['ngā-tamatoa', 'maori-sovereignty-movement'],
       reference: 'https://en.wikipedia.org/wiki/Donna_Awatere_Huata',
       address: {
@@ -1067,7 +1067,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+61-555-0145',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/2/29/Senator_Patrick_Dodson_in_New_York_-_2023_%28000085339%29_%28cropped%29.jpg',
-      tags: ['aboriginal', 'yawuru', 'reconciliation', 'senator', 'peace-prize'],
+      tags: ['Yawuru', 'Reconciliation', 'Senator', 'Peace-Prize'],
       groupMemberships: ['council-aboriginal-reconciliation', 'senate-australia'],
       reference: 'https://en.wikipedia.org/wiki/Pat_Dodson',
       address: {
@@ -1090,7 +1090,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'linda.burney@parliament.test',
       phone: '+61-555-0146',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Linda_Burney.jpg',
-      tags: ['aboriginal', 'wiradjuri', 'parliament', 'education', 'minister'],
+      tags: ['Wiradjuri', 'Parliament', 'Education', 'Minister'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Linda_Burney',
       address: {
@@ -1108,16 +1108,16 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Eddie Mabo',
       dateOfBirth: new Date('1936-06-29'),
       pronouns: 'he/him',
-      bio: 'Eddie Mabo discovered that according to Australian law, his family had no legal claim to the land where generations of his ancestors were buried, sparking a legal challenge that would transform the continent. This Torres Strait Islander from Mer fought for ten years through the courts to prove that terra nullius\\u2014the fiction that Australia was uninhabited before British colonization\\u2014had no basis in law or justice. His case established that Native title existed across Australia, overturning two centuries of legal doctrine that denied Indigenous peoples\\u0027 connection to country. Tragically, Mabo died months before his victory was announced, never seeing the landmark decision that bore his name and opened pathways for land rights claims across Australia.',
+      bio: 'Eddie Mabo discovered that according to Australian law, his family had no legal claim to the land where generations of his ancestors were buried, sparking a legal challenge that would transform the continent. This Torres Strait Islander from Mer fought for ten years through the courts to prove that terra nullius\u2014the fiction that Australia was uninhabited before British colonization\u2014had no basis in law or justice. His case established that Native title existed across Australia, overturning two centuries of legal doctrine that denied Indigenous peoples\u0027 connection to country. Tragically, Mabo died months before his victory was announced, never seeing the landmark decision that bore his name and opened pathways for land rights claims across Australia.',
       email: 'eddie.mabo@nativetitle.test',
       phone: '+61-555-0147',
       picture: 'https://upload.wikimedia.org/wikipedia/en/a/ad/EddieMaboportrait.gif',
       tags: [
-        'torres-strait-islander',
-        'native-title',
-        'land-rights',
-        'mer-island',
-        'legal-victory',
+        'Torres-Strait-Islander',
+        'Native-Title',
+        'Land-Rights',
+        'Mer-Island',
+        'Legal-Victory',
       ],
       groupMemberships: ['meriam-people', 'native-title-claimants'],
       reference: 'https://en.wikipedia.org/wiki/Eddie_Mabo',
@@ -1139,12 +1139,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'John Momis',
       dateOfBirth: new Date('1942-08-30'),
       pronouns: 'he/him',
-      bio: 'John Momis dedicated his life to Bougainville\\u0027s struggle for self-determination, moving from Catholic priesthood to constitutional drafting to leading his island through a historic independence referendum. This Bougainvillean leader helped write Papua New Guinea\\u0027s constitution in the 1970s before joining the secessionist movement that sought to protect his people from exploitation by foreign mining companies. As President of the Autonomous Region of Bougainville, he oversaw the 2019 independence referendum where 98% voted for independence from Papua New Guinea. Momis proved that Indigenous Pacific peoples could chart their own political future, even when facing powerful colonial and corporate interests.',
+      bio: 'John Momis dedicated his life to Bougainville\u0027s struggle for self-determination, moving from Catholic priesthood to constitutional drafting to leading his island through a historic independence referendum. This Bougainvillean leader helped write Papua New Guinea\u0027s constitution in the 1970s before joining the secessionist movement that sought to protect his people from exploitation by foreign mining companies. As President of the Autonomous Region of Bougainville, he oversaw the 2019 independence referendum where 98% voted for independence from Papua New Guinea. Momis proved that Indigenous Pacific peoples could chart their own political future, even when facing powerful colonial and corporate interests.',
       email: 'john.momis@bougainville.test',
       phone: '+675-555-0148',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/b/be/John_Momis_ArawaHospital03_%28cropped%29.jpg',
-      tags: ['bougainvillean', 'independence', 'president', 'constitutional-law', 'referendum'],
+      tags: ['Bougainvillean', 'Independence', 'President', 'Constitutional-Law', 'Referendum'],
       groupMemberships: ['autonomous-bougainville-government', 'new-bougainville-party'],
       reference: 'https://en.wikipedia.org/wiki/John_Momis',
       address: {
@@ -1161,12 +1161,12 @@ const firstNationsActivistsData: DataPackage = {
       id: 'person-049',
       fullName: 'Queen Liliuokalani',
       dateOfBirth: new Date('1838-09-02'),
-      pronouns: 'she/her',
-      bio: 'Queen Liliuokalani refused to accept that American businessmen could simply steal the Hawaiian Kingdom, fighting through courts, Congress, and international opinion to restore her people\\u0027s sovereignty. As Hawaii\\u0027s first and only reigning queen, she attempted to implement a new constitution that would restore power to Native Hawaiians after the so-called Bayonet Constitution had transferred control to foreign settlers. When a group of American businessmen overthrew her government in 1893, she chose to surrender rather than shed blood, then spent the rest of her life advocating for Hawaiian independence through legal and political channels. Liliuokalani composed over 160 songs including "Aloha Oe" while demonstrating that Indigenous monarchs could resist colonization through diplomacy, culture, and unwavering commitment to their people\\u0027s future.',
+      pronouns: null,
+      bio: 'Queen Liliuokalani refused to accept that American businessmen could simply steal the Hawaiian Kingdom, fighting through courts, Congress, and international opinion to restore her people\u0027s sovereignty. As Hawaii\u0027s first and only reigning queen, she attempted to implement a new constitution that would restore power to Native Hawaiians after the so-called Bayonet Constitution had transferred control to foreign settlers. When a group of American businessmen overthrew her government in 1893, she chose to surrender rather than shed blood, then spent the rest of her life advocating for Hawaiian independence through legal and political channels. Liliuokalani composed over 160 songs including "Aloha Oe" while demonstrating that Indigenous monarchs could resist colonization through diplomacy, culture, and unwavering commitment to their people\u0027s future.',
       email: 'liliuokalani@hawaiiankingdom.test',
       phone: '+1-808-555-0149',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/6/64/Liliuokalani%2C_c._1891.jpg',
-      tags: ['hawaiian', 'queen', 'sovereignty', 'musician', 'monarchy'],
+      tags: ['Hawaiian', 'Queen', 'Sovereignty', 'Musician', 'Monarchy'],
       groupMemberships: ['hawaiian-kingdom', 'hui-aloha-aina'],
       reference: 'https://en.wikipedia.org/wiki/Liliuokalani',
       address: {
@@ -1184,11 +1184,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Sitiveni Rabuka',
       dateOfBirth: new Date('1948-09-13'),
       pronouns: 'he/him',
-      bio: 'Sitiveni Rabuka justified his 1987 military coups as necessary to protect indigenous Fijian rights from Indian political dominance, later evolving to embrace multiracial democracy and constitutional reform. This former soldier claimed he acted to "safeguard the Fijian way of life" when he overthrew the elected Labour coalition government, leading to years of racial discrimination enshrined in Fiji\\u0027s constitution. His democratic political career from 1992-1999 saw him work with Indo-Fijian leaders to create the more equitable 1997 Constitution, demonstrating a remarkable transformation from coup leader to reconciliation advocate. Rabuka\\u0027s complex legacy illustrates how Indigenous Pacific leaders sometimes used undemocratic means to protect their people\\u0027s interests, before learning that true security required inclusive governance.',
+      bio: 'Sitiveni Rabuka justified his 1987 military coups as necessary to protect indigenous Fijian rights from Indian political dominance, later evolving to embrace multiracial democracy and constitutional reform. This former soldier claimed he acted to "safeguard the Fijian way of life" when he overthrew the elected Labour coalition government, leading to years of racial discrimination enshrined in Fiji\u0027s constitution. His democratic political career from 1992-1999 saw him work with Indo-Fijian leaders to create the more equitable 1997 Constitution, demonstrating a remarkable transformation from coup leader to reconciliation advocate. Rabuka\u0027s complex legacy illustrates how Indigenous Pacific leaders sometimes used undemocratic means to protect their people\u0027s interests, before learning that true security required inclusive governance.',
       email: 'sitiveni.rabuka@fiji.test',
       phone: '+679-555-0150',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Sitiveni_Rabuka_PIF_2023.jpg',
-      tags: ['fijian', 'military', 'prime-minister', 'coups', 'reconciliation'],
+      tags: ['Fijian', 'Military', 'Prime-Minister', 'Coups', 'Reconciliation'],
       groupMemberships: ['peoples-alliance-fiji', 'fiji-military-forces'],
       reference: 'https://en.wikipedia.org/wiki/Sitiveni_Rabuka',
       address: {
@@ -1209,12 +1209,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Davi Kopenawa Yanomami',
       dateOfBirth: new Date('1956-01-01'),
       pronouns: 'he/him',
-      bio: 'Davi Kopenawa became the voice of the Amazon rainforest and its Indigenous peoples, translating the spiritual wisdom of Yanomami shamanism into warnings the modern world desperately needed to hear. This Yanomami leader and shaman founded the Hutukara Association to defend his people\\u0027s territory from gold miners and cattle ranchers while arguing that Indigenous knowledge systems offer humanity\\u0027s best hope for avoiding ecological collapse. His book "The Falling Sky" bridged two worlds, explaining to "white people" how their endless consumption threatens not just the Amazon but all life on Earth. Kopenawa proved that Indigenous voices carry essential wisdom for global survival, earning recognition as "Brazil\\u0027s Dalai Lama of the Rainforest" for his tireless advocacy.',
+      bio: 'Davi Kopenawa became the voice of the Amazon rainforest and its Indigenous peoples, translating the spiritual wisdom of Yanomami shamanism into warnings the modern world desperately needed to hear. This Yanomami leader and shaman founded the Hutukara Association to defend his people\u0027s territory from gold miners and cattle ranchers while arguing that Indigenous knowledge systems offer humanity\u0027s best hope for avoiding ecological collapse. His book "The Falling Sky" bridged two worlds, explaining to "white people" how their endless consumption threatens not just the Amazon but all life on Earth. Kopenawa proved that Indigenous voices carry essential wisdom for global survival, earning recognition as "Brazil\u0027s Dalai Lama of the Rainforest" for his tireless advocacy.',
       email: 'davi.kopenawa@hutukara.test',
       phone: '+55-555-0151',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/5/54/Davi_Kopenawa_Yanomami_at_2024_Cannes_Film_Festival_for_The_Falling_Sky_%28cropped%29.jpg',
-      tags: ['yanomami', 'shaman', 'amazon', 'environmental', 'right-livelihood'],
+      tags: ['Yanomami', 'Shaman', 'Amazon', 'Environmental', 'Right-Livelihood'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Davi_Kopenawa_Yanomami',
       address: {
@@ -1233,11 +1233,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Nina Pacari',
       dateOfBirth: new Date('1961-02-10'),
       pronouns: 'she/her',
-      bio: 'Nina Pacari transformed from María Estela Vega Conejo into a powerful advocate for Indigenous nationality rights, officially changing her name to reflect her commitment to Kichwa identity and sovereignty. This Ecuadorian lawyer and politician became the first Indigenous woman elected to Ecuador\\u0027s parliament in 1998, using her legal expertise to push constitutional reforms recognizing Indigenous peoples as distinct nationalities rather than ethnic minorities. Her brief tenure as foreign minister in 2003 ended when she resigned over the government\\u0027s neoliberal policies, demonstrating that Indigenous leaders would not compromise their principles for political power. Pacari proved that Indigenous women could reshape national constitutions and legal frameworks while maintaining their cultural integrity.',
+      bio: 'Nina Pacari transformed from María Estela Vega Conejo into a powerful advocate for Indigenous nationality rights, officially changing her name to reflect her commitment to Kichwa identity and sovereignty. This Ecuadorian lawyer and politician became the first Indigenous woman elected to Ecuador\u0027s parliament in 1998, using her legal expertise to push constitutional reforms recognizing Indigenous peoples as distinct nationalities rather than ethnic minorities. Her brief tenure as foreign minister in 2003 ended when she resigned over the government\u0027s neoliberal policies, demonstrating that Indigenous leaders would not compromise their principles for political power. Pacari proved that Indigenous women could reshape national constitutions and legal frameworks while maintaining their cultural integrity.',
       email: 'nina.pacari@kichwa.test',
       phone: '+593-555-0152',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Nina_pacari_RADIO_CENTRO.png',
-      tags: ['kichwa', 'lawyer', 'foreign-minister', 'constitutional-law', 'pachakutik'],
+      tags: ['Kichwa', 'Lawyer', 'Foreign-Minister', 'Constitutional-Law', 'Pachakutik'],
       groupMemberships: ['pachakutik-movement', 'confederation-nationalities-ecuador'],
       reference: 'https://en.wikipedia.org/wiki/Nina_Pacari',
       address: {
@@ -1256,12 +1256,12 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Evo Morales',
       dateOfBirth: new Date('1959-10-26'),
       pronouns: 'he/him',
-      bio: 'Evo Morales rose from coca farmer to become Bolivia\\u0027s first Indigenous president, implementing constitutional reforms that recognized Indigenous peoples as distinct nations with rights to self-governance and ancestral territories. This Aymara leader redistributed 134 million acres of land to Indigenous families, many of whom had been forced to work as sharecroppers or slaves on estates stolen from their ancestors. His presidency marked a historic reversal of five centuries of colonial domination, proving that Indigenous peoples could reclaim political power and use it to benefit their communities. Morales\\u0027 complex legacy demonstrates both the possibilities and challenges of Indigenous political leadership in settler colonial states.',
+      bio: 'Evo Morales rose from coca farmer to become Bolivia\u0027s first Indigenous president, implementing constitutional reforms that recognized Indigenous peoples as distinct nations with rights to self-governance and ancestral territories. This Aymara leader redistributed 134 million acres of land to Indigenous families, many of whom had been forced to work as sharecroppers or slaves on estates stolen from their ancestors. His presidency marked a historic reversal of five centuries of colonial domination, proving that Indigenous peoples could reclaim political power and use it to benefit their communities. Morales\u0027 complex legacy demonstrates both the possibilities and challenges of Indigenous political leadership in settler colonial states.',
       email: 'evo.morales@bolivia.test',
       phone: '+591-555-0153',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/5/58/Evo_Morales_Ayma_%28cropped_3%29.jpg',
-      tags: ['aymara', 'president', 'coca-farmers', 'mas-party', 'bolivia'],
+      tags: ['Aymara', 'President', 'Coca-Farmers', 'Mas-Party', 'Bolivia'],
       groupMemberships: ['movement-towards-socialism', 'confederation-coca-producers'],
       reference: 'https://en.wikipedia.org/wiki/Evo_Morales',
       address: {
@@ -1279,11 +1279,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Lourdes Huanca Atencio',
       dateOfBirth: new Date('1960-05-20'),
       pronouns: 'she/her',
-      bio: 'Lourdes Huanca Atencio built a movement of 160,000 rural women across Peru, organizing peasant, artisan, and Indigenous women to fight for land rights, gender equality, and political representation. This Aymara activist founded FENMUCARINAP in 2008, creating an organization that addresses the intersecting challenges of Indigenous identity, rural poverty, and gender-based violence in Peru\\u0027s highlands. Her work connects traditional Andean concepts of community autonomy with modern struggles for women\\u0027s bodily autonomy and land sovereignty. Huanca Atencio demonstrates that Indigenous women\\u0027s leadership can challenge both patriarchal and colonial systems simultaneously, building power from the grassroots up.',
+      bio: 'Lourdes Huanca Atencio built a movement of 160,000 rural women across Peru, organizing peasant, artisan, and Indigenous women to fight for land rights, gender equality, and political representation. This Aymara activist founded FENMUCARINAP in 2008, creating an organization that addresses the intersecting challenges of Indigenous identity, rural poverty, and gender-based violence in Peru\u0027s highlands. Her work connects traditional Andean concepts of community autonomy with modern struggles for women\u0027s bodily autonomy and land sovereignty. Huanca Atencio demonstrates that Indigenous women\u0027s leadership can challenge both patriarchal and colonial systems simultaneously, building power from the grassroots up.',
       email: 'lourdes.huanca@fenmucarinap.test',
       phone: '+51-555-0154',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Lourdes_Huanca_Atencio.jpg',
-      tags: ['aymara', 'peasant-rights', 'womens-rights', 'peru', 'fenmucarinap'],
+      tags: ['Aymara', 'Peasant-Rights', 'Womens-Rights', 'Peru', 'Fenmucarinap'],
       groupMemberships: ['fenmucarinap', 'andean-womens-federation'],
       reference: 'https://en.wikipedia.org/wiki/Lourdes_Huanca_Atencio',
       address: {
@@ -1304,11 +1304,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Lars-Anders Baer',
       dateOfBirth: new Date('1955-03-12'),
       pronouns: 'he/him',
-      bio: 'Lars-Anders Baer has spent decades fighting what he calls "windmill colonialism," challenging Sweden\\u0027s failure to properly consult Sami communities about industrial development affecting their traditional reindeer herding territories. This former president of the Swedish Sami Parliament and current vice-president of the Saami Council represents the 80,000 Sami people scattered across Norway, Sweden, Finland, and Russia in their ongoing struggle for land rights and cultural preservation. His leadership of the Union of Saami People in Sweden has focused on protecting reindeer migration routes from mining, wind farms, and other development projects that threaten traditional livelihoods. Baer argues that Sweden must confront its colonial past and recognize Sami rights to their ancestral lands, just as other settler states have been forced to acknowledge Indigenous sovereignty.',
+      bio: 'Lars-Anders Baer has spent decades fighting what he calls "windmill colonialism," challenging Sweden\u0027s failure to properly consult Sami communities about industrial development affecting their traditional reindeer herding territories. This former president of the Swedish Sami Parliament and current vice-president of the Saami Council represents the 80,000 Sami people scattered across Norway, Sweden, Finland, and Russia in their ongoing struggle for land rights and cultural preservation. His leadership of the Union of Saami People in Sweden has focused on protecting reindeer migration routes from mining, wind farms, and other development projects that threaten traditional livelihoods. Baer argues that Sweden must confront its colonial past and recognize Sami rights to their ancestral lands, just as other settler states have been forced to acknowledge Indigenous sovereignty.',
       email: 'lars.baer@saamicouncil.test',
       phone: '+46-555-0155',
       picture: null,
-      tags: ['sami', 'reindeer-herding', 'parliament', 'sweden', 'land-rights'],
+      tags: ['Sami', 'Reindeer-Herding', 'Parliament', 'Sweden', 'Land-Rights'],
       groupMemberships: ['saami-council', 'swedish-sami-parliament', 'union-saami-people-sweden'],
       address: {
         street: '999 Test Street',
@@ -1317,7 +1317,7 @@ const firstNationsActivistsData: DataPackage = {
         country: 'Sweden',
         zipCode: '962 31',
       },
-      quote: 'The problem is that Sweden hasn\\u0027t come to terms with its colonial past.',
+      quote: 'The problem is that Sweden hasn\u0027t come to terms with its colonial past.',
       quoteReference: 'https://en.wikipedia.org/wiki/Saami_Council',
     },
     {
@@ -1325,11 +1325,11 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Niillas Somby',
       dateOfBirth: new Date('1948-10-15'),
       pronouns: 'he/him',
-      bio: 'Niillas Somby lost his arm attempting to sabotage the Alta Dam project in Norway, sacrificing his body to protect Sami territories from flooding by hydroelectric development that would have destroyed an entire village. This Sami activist and photographer was one of seven hunger strikers during the Alta controversy in the late 1970s, participating in protests that became a symbol of Indigenous resistance across the Arctic. After his imprisonment and escape to Canada, where he was adopted by the Nuxalk Nation, Somby returned to Norway to continue advocating for Sami rights and the return of his ancestors\\u0027 remains from university collections. His quest to reclaim the heads of Mons Somby and Aslak Hætta, executed after the 1852 Kautokeino rebellion, demonstrates the ongoing fight for dignity and justice that spans generations of Sami resistance.',
+      bio: 'Niillas Somby lost his arm attempting to sabotage the Alta Dam project in Norway, sacrificing his body to protect Sami territories from flooding by hydroelectric development that would have destroyed an entire village. This Sami activist and photographer was one of seven hunger strikers during the Alta controversy in the late 1970s, participating in protests that became a symbol of Indigenous resistance across the Arctic. After his imprisonment and escape to Canada, where he was adopted by the Nuxalk Nation, Somby returned to Norway to continue advocating for Sami rights and the return of his ancestors\u0027 remains from university collections. His quest to reclaim the heads of Mons Somby and Aslak Hætta, executed after the 1852 Kautokeino rebellion, demonstrates the ongoing fight for dignity and justice that spans generations of Sami resistance.',
       email: 'niillas.somby@samiactivist.test',
       phone: '+47-555-0156',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Niillas_Aslaksen_Somby.jpg',
-      tags: ['sami', 'alta-dam', 'activist', 'photographer', 'hunger-striker'],
+      tags: ['Sami', 'Alta-Dam', 'Activist', 'Photographer', 'Hunger-Striker'],
       groupMemberships: ['sami-rights-movement', 'alta-action-group'],
       reference: 'https://en.wikipedia.org/wiki/Niillas_Somby',
       address: {
@@ -1339,7 +1339,7 @@ const firstNationsActivistsData: DataPackage = {
         country: 'Norway',
         zipCode: '9510',
       },
-      quote: 'We are not terrorists! We are defending our land and our people\\u0027s future.',
+      quote: 'We are not terrorists! We are defending our land and our people\u0027s future.',
       quoteReference: 'https://en.wikipedia.org/wiki/Niillas_Somby',
     },
 
@@ -1353,7 +1353,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'anthony.williams@khoisanliberation.test',
       phone: '+27-55-501-0157',
       picture: null,
-      tags: ['khoikhoi', 'land-rights', 'cultural-preservation', 'south-africa', 'first-nations'],
+      tags: ['Khoikhoi', 'Land-Rights', 'Cultural-Preservation', 'South-Africa', 'First-Nations'],
       groupMemberships: [],
       address: {
         street: '789 Test Street',
@@ -1375,7 +1375,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'stanley.peterson@khoisancouncil.test',
       phone: '+27-55-502-0158',
       picture: null,
-      tags: ['san', 'traditional-knowledge', 'benefit-sharing', 'rooibos', 'intellectual-property'],
+      tags: ['San', 'Traditional-Knowledge', 'Benefit-Sharing', 'Rooibos', 'Intellectual-Property'],
       groupMemberships: [],
       address: {
         street: '234 Test Street',
@@ -1398,7 +1398,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'edward.loure@maasailand.test',
       phone: '+255-555-0159',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c6/Edward_Loure.jpg',
-      tags: ['maasai', 'land-titling', 'conservation', 'goldman-prize', 'pastoralism'],
+      tags: ['Maasai', 'Land-Titling', 'Conservation', 'Goldman-Prize', 'Pastoralism'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Edward_Loure',
       address: {
@@ -1421,7 +1421,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'joseph.oleshangay@lhrc.test',
       phone: '+254-555-0160',
       picture: null,
-      tags: ['maasai', 'human-rights-lawyer', 'ngorongoro', 'forced-relocation', 'legal-advocacy'],
+      tags: ['Maasai', 'Human-Rights-Lawyer', 'Ngorongoro', 'Forced-Relocation', 'Legal-Advocacy'],
       groupMemberships: [],
       address: {
         street: '123 Test Street',
@@ -1443,11 +1443,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+255-555-0161',
       picture: null,
       tags: [
-        'maasai',
-        'hadzabe-support',
-        'hunter-gatherer',
-        'yaeda-valley',
-        'traditional-conservation',
+        'Maasai',
+        'Hadzabe-Support',
+        'Hunter-Gatherer',
+        'Yaeda-Valley',
+        'Traditional-Conservation',
       ],
       groupMemberships: [],
       address: {
@@ -1470,7 +1470,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'toroxa.breda@khoisanlanguage.test',
       phone: '+27-55-503-0162',
       picture: null,
-      tags: ['khoikhoi', 'language-revitalization', 'supusupu', 'cultural-identity', 'education'],
+      tags: ['Khoikhoi', 'Language-Revitalization', 'Supusupu', 'Cultural-Identity', 'Education'],
       groupMemberships: [],
       address: {
         street: '567 Test Street',
@@ -1491,7 +1491,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'jumanda.gakelebone@kalaharisurvival.test',
       phone: '+267-555-0163',
       picture: null,
-      tags: ['san', 'kalahari', 'forced-relocation', 'traditional-leader', 'hunting-gathering'],
+      tags: ['San', 'Kalahari', 'Forced-Relocation', 'Traditional-Leader', 'Hunting-Gathering'],
       groupMemberships: [],
       address: {
         street: '890 Test Street',
@@ -1513,7 +1513,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'helena.kheisis@namahealing.test',
       phone: '+264-555-0164',
       picture: null,
-      tags: ['nama', 'traditional-healing', 'sacred-sites', 'mining-resistance', 'conservancy'],
+      tags: ['Nama', 'Traditional-Healing', 'Sacred-Sites', 'Mining-Resistance', 'Conservancy'],
       groupMemberships: [],
       address: {
         street: '321 Test Street',
@@ -1538,7 +1538,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+91-555-0165',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/5/59/Soni_Sori_at_Bhopal_Jan_Utsav_2017.jpg',
-      tags: ['adivasi', 'human-rights', 'police-brutality', 'women-rights', 'chhattisgarh'],
+      tags: ['Adivasi', 'Human-Rights', 'Police-Brutality', 'Women-Rights', 'Chhattisgarh'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Soni_Sori',
       address: {
@@ -1562,7 +1562,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+91-555-0166',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/c/ce/Dayamani_Barla_in_ViBGYOR2012.jpg',
-      tags: ['adivasi', 'journalism', 'mining-resistance', 'jharkhand', 'media-activism'],
+      tags: ['Adivasi', 'Journalism', 'Mining-Resistance', 'Jharkhand', 'Media-Activism'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Dayamani_Barla',
       address: {
@@ -1585,7 +1585,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ck.janu@adivasisabha.test',
       phone: '+91-555-0167',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/CK_janu.jpg',
-      tags: ['adivasi', 'land-rights', 'kerala', 'political-activism', 'tribal-welfare'],
+      tags: ['Adivasi', 'Land-Rights', 'Kerala', 'Political-Activism', 'Tribal-Welfare'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/C._K._Janu',
       address: {
@@ -1607,7 +1607,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'tulasi.munda@tribalEducation.test',
       phone: '+91-555-0168',
       picture: null,
-      tags: ['adivasi', 'education', 'child-labor', 'odisha', 'mining-resistance'],
+      tags: ['Adivasi', 'Education', 'Child-Labor', 'Odisha', 'Mining-Resistance'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Tulasi_Munda',
       address: {
@@ -1629,7 +1629,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'kaori.tahara@ainustudies.test',
       phone: '+81-555-0169',
       picture: null,
-      tags: ['ainu', 'academic-activism', 'language-rights', 'discrimination', 'tokyo'],
+      tags: ['Ainu', 'Academic-Activism', 'Language-Rights', 'Discrimination', 'Tokyo'],
       groupMemberships: [],
       address: {
         street: '890 Test Street',
@@ -1651,7 +1651,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'memory.kayano@ainuheritage.test',
       phone: '+81-555-0170',
       picture: 'https://upload.wikimedia.org/wikipedia/en/d/d9/Shigeru_Kayano.jpg',
-      tags: ['ainu', 'language-preservation', 'politics', 'folklorist', 'diet-member'],
+      tags: ['Ainu', 'Language-Preservation', 'Politics', 'Folklorist', 'Diet-Member'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Shigeru_Kayano',
       address: {
@@ -1675,11 +1675,11 @@ const firstNationsActivistsData: DataPackage = {
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/e/e5/Joan_Carling_beim_Champions_of_the_Earth_2018_Award.jpg',
       tags: [
-        'cordillera',
-        'sustainable-development',
-        'un-advocacy',
-        'environmental-conservation',
-        'philippines',
+        'Cordillera',
+        'Sustainable-Development',
+        'Un-Advocacy',
+        'Environmental-Conservation',
+        'Philippines',
       ],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Joan_Carling',
@@ -1706,7 +1706,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+678-555-0172',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/7/7b/Moana_Carcasses_Kalosil_2013_%28cropped%29.jpg',
-      tags: ['melanesian', 'climate-justice', 'prime-minister', 'small-islands', 'vanuatu'],
+      tags: ['Melanesian', 'Climate-Justice', 'Prime-Minister', 'Small-Islands', 'Vanuatu'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil',
       address: {
@@ -1730,11 +1730,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+677-555-0173',
       picture: null,
       tags: [
-        'melanesian',
-        'women-rights',
-        'customary-land',
-        'traditional-governance',
-        'solomon-islands',
+        'Melanesian',
+        'Women-Rights',
+        'Customary-Land',
+        'Traditional-Governance',
+        'Solomon-Islands',
       ],
       groupMemberships: [],
       address: {
@@ -1758,11 +1758,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+686-555-0174',
       picture: null,
       tags: [
-        'i-kiribati',
-        'climate-refugee',
-        'sea-level-rise',
-        'cultural-preservation',
-        'navigation',
+        'I-Kiribati',
+        'Climate-Refugee',
+        'Sea-Level-Rise',
+        'Cultural-Preservation',
+        'Navigation',
       ],
       groupMemberships: [],
       address: {
@@ -1786,7 +1786,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+692-555-0175',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/c/cb/Kathy_Jetn%CC%84il-Kijiner%2C_2018.jpg',
-      tags: ['marshallese', 'climate-poetry', 'spoken-word', 'un-summit', 'creative-activism'],
+      tags: ['Marshallese', 'Climate-Poetry', 'Spoken-Word', 'Un-Summit', 'Creative-Activism'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Kathy_Jetnil-Kijiner',
       address: {
@@ -1808,7 +1808,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'mere.ratunabuabua@fijiwomen.test',
       phone: '+679-555-0176',
       picture: null,
-      tags: ['fijian', 'traditional-knowledge', 'climate-adaptation', 'women-rights', 'itaukei'],
+      tags: ['Fijian', 'Traditional-Knowledge', 'Climate-Adaptation', 'Women-Rights', 'Itaukei'],
       groupMemberships: [],
       address: {
         street: '567 Test Street',
@@ -1831,11 +1831,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+685-555-0177',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/9/92/Foua_Toloa.jpg',
       tags: [
-        'samoan',
-        'marine-conservation',
-        'customary-tenure',
-        'faa-samoa',
-        'traditional-fishing',
+        'Samoan',
+        'Marine-Conservation',
+        'Customary-Tenure',
+        'Faa-Samoa',
+        'Traditional-Fishing',
       ],
       groupMemberships: [],
       address: {
@@ -1861,11 +1861,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+56-555-0178',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Elisa_Loncon_Antileo.jpg',
       tags: [
-        'mapuche',
-        'constitutional-convention',
-        'language-rights',
-        'intercultural-education',
-        'plurinational',
+        'Mapuche',
+        'Constitutional-Convention',
+        'Language-Rights',
+        'Intercultural-Education',
+        'Plurinational',
       ],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Elisa_Loncón',
@@ -1889,7 +1889,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'betiana.colhuan@machimapuche.test',
       phone: '+54-555-0179',
       picture: null,
-      tags: ['mapuche', 'machi', 'sacred-sites', 'traditional-healing', 'argentina'],
+      tags: ['Mapuche', 'Machi', 'Sacred-Sites', 'Traditional-Healing', 'Argentina'],
       groupMemberships: [],
       address: {
         street: '456 Test Street',
@@ -1914,11 +1914,11 @@ const firstNationsActivistsData: DataPackage = {
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/3/3d/Ailton_Krenak_%285269420566%29_%28cropped%29.jpg',
       tags: [
-        'krenak',
-        'indigenous-philosophy',
-        'constitutional-assembly',
-        'environmental-thought',
-        'brazil',
+        'Krenak',
+        'Indigenous-Philosophy',
+        'Constitutional-Assembly',
+        'Environmental-Thought',
+        'Brazil',
       ],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ailton_Krenak',
@@ -1943,7 +1943,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+593-555-0181',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/9/9c/Lourdes_Tib%C3%A1n_in_Feb_2012.jpg',
-      tags: ['kichwa', 'lawyer', 'congress-member', 'rights-of-nature', 'ecuador'],
+      tags: ['Kichwa', 'Lawyer', 'Congress-Member', 'Rights-Of-Nature', 'Ecuador'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Lourdes_Tib%C3%A1n',
       address: {
@@ -1967,7 +1967,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+593-555-0182',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/7/71/Nemonte_Nenquimo_2020_UNEP_Champions_of_the_Earth_laureate_credit_UNEP020-compressed.jpg',
-      tags: ['waorani', 'amazon-protection', 'goldman-prize', 'oil-resistance', 'ecuador'],
+      tags: ['Waorani', 'Amazon-Protection', 'Goldman-Prize', 'Oil-Resistance', 'Ecuador'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Nemonte_Nenquimo',
       address: {
@@ -1990,7 +1990,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'aida.quilcue@onicolombia.test',
       phone: '+57-555-0183',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Aida_Quilcu%C3%A9_2017.jpg',
-      tags: ['nasa', 'peace-process', 'territorial-rights', 'armed-conflict', 'colombia'],
+      tags: ['NASA', 'Peace-Process', 'Territorial-Rights', 'Armed-Conflict', 'Colombia'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Aída_Quilcué',
       address: {
@@ -2015,7 +2015,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'aili.keskitalo@samiparlament.test',
       phone: '+47-555-0184',
       picture: null,
-      tags: ['sami', 'parliament-president', 'reindeer-herding', 'wind-farms', 'arctic-council'],
+      tags: ['Sami', 'Parliament-President', 'Reindeer-Herding', 'Wind-Farms', 'Arctic-Council'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Aili_Keskitalo',
       address: {
@@ -2038,7 +2038,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'lars.baer@sirgessami.test',
       phone: '+46-555-0185',
       picture: null,
-      tags: ['sami', 'reindeer-herding', 'mining-resistance', 'forestry', 'sweden'],
+      tags: ['Sami', 'Reindeer-Herding', 'Mining-Resistance', 'Forestry', 'Sweden'],
       groupMemberships: [],
       address: {
         street: '456 Test Street',
@@ -2061,11 +2061,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+358-555-0186',
       picture: null,
       tags: [
-        'skolt-sami',
-        'documentary-filmmaker',
-        'cultural-preservation',
-        'language-rights',
-        'finland',
+        'Skolt-Sami',
+        'Documentary-Filmmaker',
+        'Cultural-Preservation',
+        'Language-Rights',
+        'Finland',
       ],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Pauliina_Feodoroff',
@@ -2089,7 +2089,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'dmitri.berezhkov@nenetsrights.test',
       phone: '+7-555-0187',
       picture: null,
-      tags: ['nenets', 'reindeer-herding', 'oil-gas-resistance', 'yamal-peninsula', 'russia'],
+      tags: ['Nenets', 'Reindeer-Herding', 'Oil-Gas-Resistance', 'Yamal-Peninsula', 'Russia'],
       groupMemberships: [],
       address: {
         street: '234 Test Street',
@@ -2112,7 +2112,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'galina.diatchkova@evenhealing.test',
       phone: '+7-555-0188',
       picture: null,
-      tags: ['even', 'traditional-healing', 'sacred-sites', 'mining-resistance', 'sakha-republic'],
+      tags: ['Even', 'Traditional-Healing', 'Sacred-Sites', 'Mining-Resistance', 'Sakha-Republic'],
       groupMemberships: [],
       address: {
         street: '567 Test Street',
@@ -2139,11 +2139,11 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+91-555-0189',
       picture: null,
       tags: [
-        'tibetan',
-        'traditional-medicine',
-        'high-altitude-ecosystems',
-        'climate-adaptation',
-        'nomadic-communities',
+        'Tibetan',
+        'Traditional-Medicine',
+        'High-Altitude-Ecosystems',
+        'Climate-Adaptation',
+        'Nomadic-Communities',
       ],
       groupMemberships: [],
       address: {
@@ -2167,7 +2167,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'hindou.ibrahim@mbororo.test',
       phone: '+235-555-0190',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Hindou_Oumarou_Ibrahim.jpg',
-      tags: ['mbororo', 'pastoralist', 'climate-adaptation', 'traditional-forecasting', 'chad'],
+      tags: ['Mbororo', 'Pastoralist', 'Climate-Adaptation', 'Traditional-Forecasting', 'Chad'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Hindou_Oumarou_Ibrahim',
       address: {
@@ -2193,11 +2193,11 @@ const firstNationsActivistsData: DataPackage = {
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/8/87/Patricia_Gualinga_%28cropped%29.jpg',
       tags: [
-        'kichwa',
-        'human-rights-defender',
-        'inter-american-court',
-        'extractive-resistance',
-        'ecuador',
+        'Kichwa',
+        'Human-Rights-Defender',
+        'Inter-American-Court',
+        'Extractive-Resistance',
+        'Ecuador',
       ],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Patricia_Gualinga',
@@ -2222,7 +2222,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'phoolman.chaudhary@tharuRights.test',
       phone: '+977-555-0192',
       picture: null,
-      tags: ['tharu', 'land-rights', 'terai-lowlands', 'cultural-preservation', 'nepal'],
+      tags: ['Tharu', 'Land-Rights', 'Terai-Lowlands', 'Cultural-Preservation', 'Nepal'],
       groupMemberships: [],
       address: {
         street: '789 Test Street',
@@ -2245,7 +2245,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'vandana.shiva@navdanya.test',
       phone: '+91-555-0193',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/9/98/Dr._Vandana_Shiva_DS.jpg',
-      tags: ['seed-sovereignty', 'biodiversity', 'agriculture', 'india', 'environmental'],
+      tags: ['Seed-Sovereignty', 'Biodiversity', 'Agriculture', 'India', 'Environmental'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Vandana_Shiva',
       address: {
@@ -2259,30 +2259,6 @@ const firstNationsActivistsData: DataPackage = {
       quoteReference: 'https://www.brainyquote.com/authors/vandana-shiva-quotes',
     },
     {
-      id: 'person-094',
-      fullName: 'Greta Thunberg',
-      dateOfBirth: new Date('2003-01-01'), // Approximate year
-      pronouns: 'she/her',
-
-      bio: "Greta Thunberg has become a global voice for climate action that resonates with Indigenous communities fighting environmental destruction. A Swedish climate activist with Asperger's syndrome, she began school strikes for climate that inspired millions worldwide. Her direct speaking style and uncompromising demands for climate justice echo the urgency expressed by Indigenous environmental defenders. Though not Indigenous herself, Thunberg frequently amplifies Indigenous voices and acknowledges their leadership in environmental protection.",
-      email: 'greta.thunberg@fridaysforfuture.test',
-      phone: '+46-555-0194',
-      picture:
-        'https://upload.wikimedia.org/wikipedia/commons/1/13/Greta_Thunberg_Stockholm_2024_%283x4_cropped%29.jpg',
-      tags: ['climate-activism', 'youth-activism', 'sweden', 'environmental'],
-      groupMemberships: [],
-      reference: 'https://en.wikipedia.org/wiki/Greta_Thunberg',
-      address: {
-        street: '456 Test Street',
-        city: 'Stockholm',
-        state: 'Stockholm County',
-        country: 'Sweden',
-        zipCode: '10412',
-      },
-      quote: 'How dare you! You have stolen my dreams and my childhood with your empty words.',
-      quoteReference: 'https://www.brainyquote.com/authors/greta-thunberg-quotes',
-    },
-    {
       id: 'person-095',
       fullName: 'Chico Mendes',
       dateOfBirth: new Date('1944-01-01'), // Approximate year
@@ -2292,7 +2268,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'chico.mendes@rubbertappers.test',
       phone: '+55-555-0195',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Chico_Mendes_in_1988.jpg',
-      tags: ['amazon', 'environmental', 'rubber-tappers', 'brazil', 'forest-protection'],
+      tags: ['Amazon', 'Environmental', 'Rubber-Tappers', 'Brazil', 'Forest-Protection'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Chico_Mendes',
       address: {
@@ -2316,7 +2292,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'wangari.maathai@greenbelt.test',
       phone: '+254-555-0196',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Wangari_Maathai_in_2001.jpg',
-      tags: ['environmental', 'women-empowerment', 'kenya', 'reforestation', 'nobel-laureate'],
+      tags: ['Environmental', 'Women-Empowerment', 'Kenya', 'Reforestation', 'Nobel-Laureate'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Wangari_Maathai',
       address: {
@@ -2340,7 +2316,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'ken.saroviwa@ogoni.test',
       phone: '+234-555-0197',
       picture: 'https://upload.wikimedia.org/wikipedia/en/2/2a/Ken_Saro-Wiwa.jpg',
-      tags: ['ogoni', 'oil-resistance', 'nigeria', 'environmental-justice', 'writer'],
+      tags: ['Ogoni', 'Oil-Resistance', 'Nigeria', 'Environmental-Justice', 'Writer'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Ken_Saro-Wiwa',
       address: {
@@ -2365,7 +2341,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+504-555-0198',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/d/d6/Berta_C%C3%A1ceres_%28cropped%29.jpg',
-      tags: ['lenca', 'environmental-defender', 'honduras', 'anti-dam', 'goldman-prize'],
+      tags: ['Lenca', 'Environmental-Defender', 'Honduras', 'Anti-Dam', 'Goldman-Prize'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres',
       address: {
@@ -2390,7 +2366,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+55-555-0199',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/4/4a/31.07.2024_-_Visita_%C3%A0_Base_Prevfogo_Ibama_de_Corumb%C3%A1_%2853893982568%29_%28cropped%29.jpg',
-      tags: ['amazon', 'politics', 'environmental', 'brazil', 'rubber-tapper'],
+      tags: ['Amazon', 'Politics', 'Environmental', 'Brazil', 'Rubber-Tapper'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Marina_Silva',
       address: {
@@ -2414,7 +2390,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'dorothy.stang@cpt.test',
       phone: '+55-555-0200',
       picture: 'https://upload.wikimedia.org/wikipedia/en/8/8d/Dorothy_Stang.jpg',
-      tags: ['amazon-defender', 'nun', 'land-reform', 'brazil', 'environmental-martyr'],
+      tags: ['Amazon-Defender', 'Nun', 'Land-Reform', 'Brazil', 'Environmental-Martyr'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Dorothy_Stang',
       address: {
@@ -2437,7 +2413,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'isatou.ceesay@womenrecycling.test',
       phone: '+220-555-0201',
       picture: null,
-      tags: ['recycling', 'women-empowerment', 'gambia', 'environmental', 'waste-management'],
+      tags: ['Recycling', 'Women-Empowerment', 'Gambia', 'Environmental', 'Waste-Management'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Isatou_Ceesay',
       address: {
@@ -2461,7 +2437,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+51-555-0202',
       picture:
         'https://upload.wikimedia.org/wikipedia/commons/e/e6/Evaristo_Nugkuag%2C_2010_%28cropped%29.jpg',
-      tags: ['aguaruna', 'amazon', 'indigenous-rights', 'peru', 'territorial-defense'],
+      tags: ['Aguaruna', 'Amazon', 'Indigenous-Rights', 'Peru', 'Territorial-Defense'],
       groupMemberships: [],
       reference: 'https://en.wikipedia.org/wiki/Evaristo_Nugkuag',
       address: {
@@ -2509,7 +2485,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'native-american-voters',
-      name: 'Native American Voting Rights Coalition',
+      name: '[Test] Native American Voting Rights Coalition',
       about:
         'Advocacy group working to increase Native American political participation and remove barriers to voting in tribal communities.',
       email: 'votes@nativevoting.test',
@@ -2518,7 +2494,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'tribal-democracy-coalition',
-      name: 'Tribal Democracy Coalition',
+      name: '[Test] Tribal Democracy Coalition',
       about:
         'Multi-tribal organization promoting democratic participation and Indigenous representation in government at all levels.',
       email: 'democracy@tribaldemocracy.test',
@@ -2537,7 +2513,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'canadian-land-protectors',
-      name: 'Canadian Indigenous Land Protectors',
+      name: '[Test] Canadian Indigenous Land Protectors',
       about:
         'Network of Indigenous land defenders working to protect traditional territories from resource extraction and development.',
       email: 'protect@landprotectors.test',
@@ -2546,7 +2522,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-health-network',
-      name: 'Indigenous Health Equity Network',
+      name: '[Test] Indigenous Health Equity Network',
       about:
         'Healthcare advocacy organization addressing health disparities and promoting culturally appropriate healthcare for Indigenous communities.',
       email: 'health@indigenoushealth.test',
@@ -2555,7 +2531,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'traditional-healers-circle',
-      name: 'Traditional Healers Circle',
+      name: '[Test] Traditional Healers Circle',
       about:
         'Council of Indigenous traditional healers preserving and sharing ancestral healing knowledge and practices.',
       email: 'healers@traditionalcircle.test',
@@ -2574,7 +2550,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-knowledge-network',
-      name: 'Indigenous Knowledge Network',
+      name: '[Test] Indigenous Knowledge Network',
       about:
         'Indigenous research network promoting the integration of traditional ecological knowledge into climate science and policy.',
       email: 'knowledge@indigenousknowledge.test',
@@ -2593,7 +2569,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'sacred-sites-protection',
-      name: 'Sacred Sites Protection Alliance',
+      name: '[Test] Sacred Sites Protection Alliance',
       about:
         'Indigenous alliance working to protect sacred sites and cultural landscapes from destruction and desecration.',
       email: 'protect@sacredsites.test',
@@ -2602,7 +2578,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'torres-strait-conservation',
-      name: 'Torres Strait Conservation Alliance',
+      name: '[Test] Torres Strait Conservation Alliance',
       about:
         'Indigenous marine conservation organization led by Torres Strait Islanders protecting coral reefs and traditional fishing areas.',
       email: 'marine@torresconservation.test',
@@ -2611,7 +2587,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'pacific-islander-alliance',
-      name: 'Pacific Islander Environmental Alliance',
+      name: '[Test] Pacific Islander Environmental Alliance',
       about:
         'Regional network of Indigenous Pacific Islander communities addressing climate change and marine conservation issues.',
       email: 'pacific@islanderalliance.test',
@@ -2630,7 +2606,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'traditional-medicine-keepers',
-      name: 'Traditional Medicine Keepers Alliance',
+      name: '[Test] Traditional Medicine Keepers Alliance',
       about:
         'Global network of Indigenous medicine keepers preserving traditional healing knowledge and medicinal plant conservation.',
       email: 'medicine@traditionalmedicine.test',
@@ -2639,7 +2615,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-youth-network',
-      name: 'Global Indigenous Youth Network',
+      name: '[Test] Global Indigenous Youth Network',
       about:
         'International network of Indigenous youth leaders promoting cultural preservation and environmental activism.',
       email: 'youth@indigenousyouth.test',
@@ -2648,7 +2624,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'andean-water-council',
-      name: 'Andean Indigenous Water Council',
+      name: '[Test] Andean Indigenous Water Council',
       about:
         'Council of Andean Indigenous communities protecting mountain watersheds and traditional water management systems.',
       email: 'water@andeanwater.test',
@@ -2657,7 +2633,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-water-alliance',
-      name: 'Indigenous Water Rights Alliance',
+      name: '[Test] Indigenous Water Rights Alliance',
       about:
         'International alliance advocating for Indigenous water rights and traditional water governance systems.',
       email: 'rights@wateralliance.test',
@@ -2666,7 +2642,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-farmers-union',
-      name: 'Indigenous Farmers Union',
+      name: '[Test] Indigenous Farmers Union',
       about:
         'Union of Indigenous farmers promoting traditional agriculture and fighting for land and seed sovereignty.',
       email: 'farmers@indigenousfarmers.test',
@@ -2675,7 +2651,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'seed-sovereignty-network',
-      name: 'Seed Sovereignty Network',
+      name: '[Test] Seed Sovereignty Network',
       about:
         'Network dedicated to preserving Indigenous seed varieties and promoting traditional crop diversity.',
       email: 'seeds@seedsovereignty.test',
@@ -2684,7 +2660,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-climate-council',
-      name: 'Indigenous Climate Council',
+      name: '[Test] Indigenous Climate Council',
       about:
         'International council bringing Indigenous perspectives to global climate policy and negotiations.',
       email: 'council@indigenousclimate.test',
@@ -2702,7 +2678,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'arctic-indigenous-alliance',
-      name: 'Arctic Indigenous Peoples Alliance',
+      name: '[Test] Arctic Indigenous Peoples Alliance',
       about:
         'Circumpolar alliance of Arctic Indigenous peoples addressing climate change and cultural preservation.',
       email: 'arctic@arcticindigenous.test',
@@ -2720,7 +2696,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'african-indigenous-council',
-      name: 'African Indigenous Peoples Council',
+      name: '[Test] African Indigenous Peoples Council',
       about:
         'Continental organization representing Indigenous African peoples and advocating for their rights and recognition.',
       email: 'council@africanindigenous.test',
@@ -2740,7 +2716,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'maori-peace-movement',
-      name: 'Māori Peace Movement',
+      name: '[Test] Māori Peace Movement',
       about:
         'Indigenous movement promoting nonviolent resistance and peaceful solutions to Māori rights issues, inspired by the example of Parihaka.',
       email: 'info@maoripeace.test',
@@ -2758,7 +2734,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'maori-womens-welfare-league',
-      name: 'Māori Women\\u0027s Welfare League',
+      name: 'Māori Women\u0027s Welfare League',
       about:
         'National organization of Māori women working to improve the lives of Māori families and preserve Māori culture and values.',
       email: 'welfare@maoriwomen.test',
@@ -2794,7 +2770,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'maori-sovereignty-movement',
-      name: 'Māori Sovereignty Movement',
+      name: '[Test] Māori Sovereignty Movement',
       about:
         'Political movement advocating for Māori self-determination and the restoration of Māori political authority under Te Tiriti o Waitangi.',
       email: 'sovereignty@maori.test',
@@ -2823,7 +2799,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-parliamentary-caucus',
-      name: 'Indigenous Parliamentary Caucus',
+      name: '[Test] Indigenous Parliamentary Caucus',
       about:
         'Cross-party group of parliamentarians working to advance Indigenous rights and representation in Australian government.',
       email: 'caucus@indigenous.test',
@@ -2841,7 +2817,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'native-title-claimants',
-      name: 'Native Title Claimants Network',
+      name: '[Test] Native Title Claimants Network',
       about:
         'Network of Indigenous Australian groups pursuing native title claims and land rights recognition across Australia.',
       email: 'claims@nativetitle.test',
@@ -2879,7 +2855,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'hui-aloha-aina',
-      name: 'Hui Aloha \\u0027Aina',
+      name: 'Hui Aloha \u0027Aina',
       about:
         'Hawaiian organization that opposed American annexation, collecting over 21,000 signatures against the annexation treaty in the 1890s.',
       email: 'aloha@huialohaaina.test',
@@ -2888,7 +2864,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'peoples-alliance-fiji',
-      name: 'People\\u0027s Alliance',
+      name: 'People\u0027s Alliance',
       about:
         'Fijian political party committed to multiracial democracy and constitutional governance, led by Sitiveni Rabuka.',
       email: 'alliance@peoplesfiji.test',
@@ -2928,7 +2904,7 @@ const firstNationsActivistsData: DataPackage = {
       id: 'confederation-nationalities-ecuador',
       name: 'Confederation of Peoples and Nationalities of Ecuador',
       about:
-        'Organization representing Ecuador\\u0027s indigenous peoples and nationalities in their struggle for political and cultural rights.',
+        'Organization representing Ecuador\u0027s indigenous peoples and nationalities in their struggle for political and cultural rights.',
       email: 'nations@conaie.test',
       website: 'https://conaie.test',
       picture: null,
@@ -2944,7 +2920,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'confederation-coca-producers',
-      name: 'Confederation of Coca Producers',
+      name: '[Test] Confederation of Coca Producers',
       about:
         'Union representing coca farmers in Bolivia, defending traditional coca cultivation and opposing forced eradication programs.',
       email: 'coca@cocaleros.test',
@@ -2955,16 +2931,16 @@ const firstNationsActivistsData: DataPackage = {
       id: 'fenmucarinap',
       name: 'FENMUCARINAP',
       about:
-        'National Federation of Female Peasants, Artisans, Indigenous, Native and Salaried Workers of Peru, fighting for women\\u0027s and indigenous rights.',
+        'National Federation of Female Peasants, Artisans, Indigenous, Native and Salaried Workers of Peru, fighting for women\u0027s and indigenous rights.',
       email: 'women@fenmucarinap.test',
       website: 'https://fenmucarinap.test',
       picture: null,
     },
     {
       id: 'andean-womens-federation',
-      name: 'Andean Women\\u0027s Rights Federation',
+      name: '[Test] Andean Women\u0027s Rights Federation',
       about:
-        'Regional organization advocating for indigenous women\\u0027s rights across the Andean countries of South America.',
+        'Regional organization advocating for indigenous women\u0027s rights across the Andean countries of South America.',
       email: 'andean@womensrights.test',
       website: 'https://andeanwomen.test',
       picture: null,
@@ -3000,7 +2976,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'sami-rights-movement',
-      name: 'Sami Rights Movement',
+      name: '[Test] Sami Rights Movement',
       about:
         'Grassroots movement advocating for Sami self-determination and protection of traditional territories across the Arctic.',
       email: 'rights@samirights.test',
@@ -3036,7 +3012,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     {
       id: 'indigenous-musicians-collective',
-      name: 'Indigenous Musicians Collective',
+      name: '[Test] Indigenous Musicians Collective',
       about:
         'Network of Indigenous musicians and artists preserving and promoting traditional music while creating contemporary Indigenous art.',
       email: 'collective@indigenousmusic.test',
@@ -3048,49 +3024,49 @@ const firstNationsActivistsData: DataPackage = {
   events: [
     {
       id: 'event-001',
-      name: 'Global Indigenous Environmental Summit',
+      name: '[Test] Global Indigenous Environmental Summit',
       date: new Date('2024-06-21'),
       attendeeIds: ['person-01', 'person-02', 'person-07', 'person-09', 'person-013'],
     },
     {
       id: 'event-002',
-      name: 'Arctic Climate Action Conference',
+      name: '[Test] Arctic Climate Action Conference',
       date: new Date('2024-03-15'),
       attendeeIds: ['person-06', 'person-013', 'person-014'],
     },
     {
       id: 'event-003',
-      name: 'Indigenous Water Rights Symposium',
+      name: '[Test] Indigenous Water Rights Symposium',
       date: new Date('2024-08-10'),
       attendeeIds: ['person-01', 'person-04', 'person-011'],
     },
     {
       id: 'event-004',
-      name: 'Traditional Medicine Keepers Gathering',
+      name: '[Test] Traditional Medicine Keepers Gathering',
       date: new Date('2024-09-22'),
       attendeeIds: ['person-05', 'person-09', 'person-012'],
     },
     {
       id: 'event-005',
-      name: 'Youth Indigenous Leadership Workshop',
+      name: '[Test] Youth Indigenous Leadership Workshop',
       date: new Date('2024-07-01'),
       attendeeIds: ['person-03', 'person-010', 'person-08'],
     },
     {
       id: 'event-006',
-      name: 'Sacred Sites Protection Rally',
+      name: '[Test] Sacred Sites Protection Rally',
       date: new Date('2024-04-22'),
       attendeeIds: ['person-07', 'person-015', 'person-04'],
     },
     {
       id: 'event-007',
-      name: 'Amazon Forest Defenders Conference',
+      name: '[Test] Amazon Forest Defenders Conference',
       date: new Date('2024-05-30'),
       attendeeIds: ['person-09', 'person-010'],
     },
     {
       id: 'event-008',
-      name: 'Indigenous Democracy and Voting Rights Summit',
+      name: '[Test] Indigenous Democracy and Voting Rights Summit',
       date: new Date('2024-10-15'),
       attendeeIds: ['person-03', 'person-05'],
     },

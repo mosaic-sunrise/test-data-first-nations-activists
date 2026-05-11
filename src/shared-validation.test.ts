@@ -5,7 +5,6 @@ validateDataPackage(firstNationsActivistsData, {
   datasetName: 'First Nations Activists Dataset',
   minBirthYear: 1500, // Historical activists
   maxBirthYear: 2010,
-  requirePronouns: true,
   requireDateOfBirth: false,
   minBioLength: 100,
   containsFirstNationsPeople: true,

@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+<!-- Insert in-progress changes here -->
+
+## [0.2.0] - 2026-05-14
+
+### Added
+
+- Uruwarige Wannila Aththo and Tissahami — Wanniya-laeto (Vedda)
+  leaders, Sri Lanka.
+
+## [0.1.0] - 2026-05-14
+
 ### Changed
 
 - Bump version 1.0.0 → 0.1.0 in preparation for npm publication.

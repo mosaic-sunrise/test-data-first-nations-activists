@@ -7,12 +7,12 @@ Real biographies of First Nations, Indigenous, Aboriginal, and tribal activists 
 ## Quickstart
 
 ```bash
-npm install first-nations-activists-data @mosaic-code/test-data-factory
+npm install @mosaic-code/first-nations-activists-data @mosaic-code/test-data-factory
 ```
 
 ```typescript
 import DataFactory from '@mosaic-code/test-data-factory';
-import firstNationsActivistsData from 'first-nations-activists-data';
+import firstNationsActivistsData from '@mosaic-code/first-nations-activists-data';
 
 // The acknowledgment should come from a deliberate user opt-in, not be
 // hardcoded. In CI/tests an env var works; in a UI, surface a

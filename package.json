@@ -1,5 +1,8 @@
 {
-  "name": "first-nations-activists-data",
+  "name": "@mosaic-code/first-nations-activists-data",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.0",
   "description": "Test data package containing first nations activists from around the world",
   "main": "dist/index.js",
